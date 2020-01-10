@@ -94,8 +94,8 @@
     <div class="intro-content">
       <h2>Promoting Quality <span>Leadership</span><br>Through Education!</h2>
       <div>
-        <a href="#about" class="btn-get-started scrollto">Get Started</a>
-        <a href="#portfolio" class="btn-projects scrollto">Our Projects</a>
+        <a href="#about" class="btn-get-started scrollto">Awards</a>
+        <a href="#portfolio" class="btn-projects scrollto">Application Forms</a>
       </div>
     </div>
 
@@ -498,7 +498,7 @@
             <div class="contact-address">
               <i class="ion-ios-location-outline"></i>
               <h3>Address</h3>
-              <address>A108 Adam Street, NY 535022, USA</address>
+              <address>A108 Adam Street, NY 535022, Aba</address>
             </div>
           </div>
 
