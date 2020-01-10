@@ -223,7 +223,7 @@
       <div class="container-fluid">
         <div class="row no-gutters">
 
-          <div class="col-lg-3 col-md-4">
+          <div class="col-lg-4 col-md-4">
             <div class="portfolio-item wow fadeInUp">
               <a href="img/portfolio/1.jpg" class="portfolio-popup">
                 <img src="img/portfolio/1.jpg" alt="">
@@ -234,7 +234,7 @@
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-4">
+          <div class="col-lg-4 col-md-4">
             <div class="portfolio-item wow fadeInUp">
               <a href="img/portfolio/2.jpg" class="portfolio-popup">
                 <img src="img/portfolio/2.jpg" alt="">
@@ -245,7 +245,7 @@
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-4">
+          <div class="col-lg-4 col-md-4">
             <div class="portfolio-item wow fadeInUp"> 
               <a href="img/portfolio/3.jpg" class="portfolio-popup">
                 <img src="img/portfolio/3.jpg" alt="">
@@ -256,7 +256,7 @@
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-4">
+          <div class="col-lg-4 col-md-4">
             <div class="portfolio-item wow fadeInUp">
               <a href="img/portfolio/4.jpg" class="portfolio-popup">
                 <img src="img/portfolio/4.jpg" alt="">
@@ -267,7 +267,7 @@
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-4">
+          <div class="col-lg-4 col-md-4">
             <div class="portfolio-item wow fadeInUp">
               <a href="img/portfolio/5.jpg" class="portfolio-popup">
                 <img src="img/portfolio/5.jpg" alt="">
@@ -278,7 +278,7 @@
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-4">
+          <div class="col-lg-4 col-md-4">
             <div class="portfolio-item wow fadeInUp">
               <a href="img/portfolio/6.jpg" class="portfolio-popup">
                 <img src="img/portfolio/6.jpg" alt="">
