@@ -111,9 +111,20 @@
     </div>
 
   </section><!-- #intro -->
-  <div>
-    <h2>Welcome to Institute of policy management Development</h2>
-  </div>
+  <section id="call-to-action" class="wow fadeInUp">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-9 text-center text-lg-left">
+            <h3 class="cta-title">Welcome to IPMD</h3>
+            <p class="cta-text">Here we promotes professionalism in policy management, tailored education, training, research and consultancy.</p>
+          </div>
+          <div class="col-lg-3 cta-btn-container text-center">
+            <a class="cta-btn align-middle" href="#">More About Us</a>
+          </div>
+        </div>
+
+      </div>
+    </section>
   <main id="main">
 
     <!--==========================
@@ -148,7 +159,7 @@
       <div class="container">
         <div class="section-header">
           <h2>Who We Are</h2>
-          <p>Sed tamen tempor magna labore dolore dolor sint tempor duis magna elit veniam aliqua esse amet veniam enim export quid quid veniam aliqua eram noster malis nulla duis fugiat culpa esse aute nulla ipsum velit export irure minim illum fore</p>
+          <p>Ipmd is a professional body that deals with Education, workshop, research, seminer, consultant and inductions of fellows and members of the institute.</p>
         </div>
 
         <div class="row">
@@ -494,7 +505,7 @@
       <div class="container">
         <div class="section-header">
           <h2>Contact Us</h2>
-          <p>Sed tamen tempor magna labore dolore dolor sint tempor duis magna elit veniam aliqua esse amet veniam enim export quid quid veniam aliqua eram noster malis nulla duis fugiat culpa esse aute nulla ipsum velit export irure minim illum fore</p>
+          <!-- <p>Sed tamen tempor magna labore dolore dolor sint tempor duis magna elit veniam aliqua esse amet veniam enim export quid quid veniam aliqua eram noster malis nulla duis fugiat culpa esse aute nulla ipsum velit export irure minim illum fore</p> -->
         </div>
 
         <div class="row contact-info">
@@ -503,7 +514,7 @@
             <div class="contact-address">
               <i class="ion-ios-location-outline"></i>
               <h3>Address</h3>
-              <address>A108 Adam Street, NY 535022, Aba</address>
+              <address>IPMD Southern Secretariat Aba, Abia</address>
             </div>
           </div>
 
@@ -527,7 +538,7 @@
       </div>
 
       <div class="container mb-4">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22864.11283411948!2d-73.96468908098944!3d40.630720240038435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY%2C+USA!5e0!3m2!1sen!2sbg!4v1540447494452" width="100%" height="380" frameborder="0" style="border:0" allowfullscreen></iframe>
+        <iframe src="https://wego.here.com/directions/mylocation/e-eyJuYW1lIjoiSW5zdGl0dXRlIG9mIHBvbGljeSBtYW5hZ2VtZW50IGRldmVsb3BtZW50IC0gSVBNRCIsImFkZHJlc3MiOiJJUE1EIFNvdXRoZXJuIFNlY3JldGFyaWF0LCBBYmEsIEFiaWEiLCJsYXRpdHVkZSI6NS4xMTY2NywibG9uZ2l0dWRlIjo3LjM2NjY3LCJwcm92aWRlck5hbWUiOiJmYWNlYm9vayIsInByb3ZpZGVySWQiOjU2MDY2NDUzNzM3MzMwNX0=?map=5.11667,7.36667,15,normal&ref=facebook&link=directions&fb_locale=en_US" width="100%" height="380" frameborder="0" style="border:0" allowfullscreen></iframe>
       </div>
 
       <div class="container">
