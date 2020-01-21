@@ -134,7 +134,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-6 about-img">
-            <img src="img/about-img.jpg" alt="">
+            <img src="img/intro-carousel/2.jpeg" alt="">
           </div>
 
           <div class="col-lg-6 content">
@@ -414,7 +414,7 @@
             <p class="cta-text"> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
           </div>
           <div class="col-lg-3 cta-btn-container text-center">
-            <a class="cta-btn align-middle" href="#">Call To Action</a>
+            <a class="cta-btn align-middle" href="#">Request for Qouta</a>
           </div>
         </div>
 
