@@ -22,9 +22,9 @@
   <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
   <link href="lib/magnific-popup/magnific-popup.css" rel="stylesheet">
   <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
-
   <!-- Main Stylesheet File -->
   <link href="css/style.css" rel="stylesheet">
+  
 </head>
 
 <body id="body">
@@ -81,8 +81,11 @@
             </ul>
           </li>
           <li><a href="#contact">Contact</a></li>
+          <li><a href="#about" class="btn-get-started scrollto">Awards</a></li>
+          <li><a href="#portfolio" class="btn-projects scrollto">Application Forms</a></li>
         </ul>
       </nav><!-- #nav-menu-container -->
+      
     </div>
   </header><!-- #header -->
 
@@ -92,23 +95,25 @@
   <section id="intro">
 
     <div class="intro-content">
-      <h2>Promoting Quality <span>Leadership</span><br>Through Education!</h2>
-      <div>
+      <h2 id="type-effect">Promoting Quality Leadership<br>Through Education!</h2>
+      <!-- <div>
         <a href="#about" class="btn-get-started scrollto">Awards</a>
         <a href="#portfolio" class="btn-projects scrollto">Application Forms</a>
-      </div>
+      </div> -->
     </div>
 
     <div id="intro-carousel" class="owl-carousel" >
-      <div class="item" style="background-image: url('img/intro-carousel/1.jpg');"></div>
-      <div class="item" style="background-image: url('img/intro-carousel/2.jpg');"></div>
-      <div class="item" style="background-image: url('img/intro-carousel/3.jpg');"></div>
-      <div class="item" style="background-image: url('img/intro-carousel/4.jpg');"></div>
-      <div class="item" style="background-image: url('img/intro-carousel/5.jpg');"></div>
+      <div class="item" style="background-image: url('img/intro-carousel/1.jpeg');"></div>
+      <div class="item" style="background-image: url('img/intro-carousel/2.jpeg');"></div>
+      <div class="item" style="background-image: url('img/intro-carousel/7.jpeg');"></div>
+      <div class="item" style="background-image: url('img/intro-carousel/4.jpeg');"></div>
+      <div class="item" style="background-image: url('img/intro-carousel/17.jpeg');"></div>
     </div>
 
   </section><!-- #intro -->
-
+  <div>
+    <h2>Welcome to Institute of policy management Development</h2>
+  </div>
   <main id="main">
 
     <!--==========================
@@ -164,7 +169,7 @@
             </div>
           </div>
 
-          <div class="col-lg-6">
+          <!-- <div class="col-lg-6">
             <div class="box wow fadeInLeft" data-wow-delay="0.2s">
               <div class="icon"><i class="fa fa-shopping-bag"></i></div>
               <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
@@ -178,7 +183,7 @@
               <h4 class="title"><a href="">Magni Dolores</a></h4>
               <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum rideta zanox satirente madera</p>
             </div>
-          </div>
+          </div> -->
 
         </div>
 
@@ -225,8 +230,8 @@
 
           <div class="col-lg-4 col-md-4">
             <div class="portfolio-item wow fadeInUp">
-              <a href="img/portfolio/1.jpg" class="portfolio-popup">
-                <img src="img/portfolio/1.jpg" alt="">
+              <a href="#" class="portfolio-popup">
+                <img src="img/intro-carousel/15.jpeg" alt="">
                 <div class="portfolio-overlay">
                   <div class="portfolio-info"><h2 class="wow fadeInUp">Membership Committee</h2></div>
                 </div>
@@ -236,8 +241,8 @@
 
           <div class="col-lg-4 col-md-4">
             <div class="portfolio-item wow fadeInUp">
-              <a href="img/portfolio/2.jpg" class="portfolio-popup">
-                <img src="img/portfolio/2.jpg" alt="">
+              <a href="#" class="portfolio-popup">
+                <img src="img/intro-carousel/1.jpeg" alt="">
                 <div class="portfolio-overlay">
                   <div class="portfolio-info"><h2 class="wow fadeInUp">EDUCATIONAL/TRAINING COMMITTEE</h2></div>
                 </div>
@@ -247,8 +252,8 @@
 
           <div class="col-lg-4 col-md-4">
             <div class="portfolio-item wow fadeInUp"> 
-              <a href="img/portfolio/3.jpg" class="portfolio-popup">
-                <img src="img/portfolio/3.jpg" alt="">
+              <a href="#" class="portfolio-popup">
+                <img src="img/intro-carousel/13.jpeg" alt="">
                 <div class="portfolio-overlay">
                   <div class="portfolio-info"><h2 class="wow fadeInUp">INDUCTION AND AWARDS COMMITTEE</h2></div>
                 </div>
@@ -258,8 +263,8 @@
 
           <div class="col-lg-4 col-md-4">
             <div class="portfolio-item wow fadeInUp">
-              <a href="img/portfolio/4.jpg" class="portfolio-popup">
-                <img src="img/portfolio/4.jpg" alt="">
+              <a href="#" class="portfolio-popup">
+                <img src="img/intro-carousel/3.jpeg" alt="">
                 <div class="portfolio-overlay">
                   <div class="portfolio-info"><h2 class="wow fadeInUp">EXAMINATIONS COMMITTEE</h2></div>
                 </div>
@@ -269,8 +274,8 @@
 
           <div class="col-lg-4 col-md-4">
             <div class="portfolio-item wow fadeInUp">
-              <a href="img/portfolio/5.jpg" class="portfolio-popup">
-                <img src="img/portfolio/5.jpg" alt="">
+              <a href="#" class="portfolio-popup">
+                <img src="img/intro-carousel/16.jpeg" alt="">
                 <div class="portfolio-overlay">
                   <div class="portfolio-info"><h2 class="wow fadeInUp">PUBLICATIONS AND EDITORIAL COMMITTEE</h2></div>
                 </div>
@@ -280,8 +285,8 @@
 
           <div class="col-lg-4 col-md-4">
             <div class="portfolio-item wow fadeInUp">
-              <a href="img/portfolio/6.jpg" class="portfolio-popup">
-                <img src="img/portfolio/6.jpg" alt="">
+              <a href="#" class="portfolio-popup">
+                <img src="img/intro-carousel/12.jpeg" alt="">
                 <div class="portfolio-overlay">
                   <div class="portfolio-info"><h2 class="wow fadeInUp">Portfolio Item 6</h2></div>
                 </div>
@@ -590,6 +595,41 @@
 
   <!-- Template Main Javascript File -->
   <script src="js/main.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/typeit/dist/typeit.min.js"></script>
+  <script>
+    new TypeIt('#type-effect')
+  .type('')
+  .pause(1000)
+  .delete(12)
+  .type('')
+  .go();
 
+//   new TypeIt('#element', {
+//   speed: 45
+// })
+// .type('The programers')
+// .pause(300)
+// .options({speed: 200})
+// .delete(3)
+// .options({speed: 45})
+// .pause(300)
+// .type('mer\'s wife sent him to teh sto.')
+// .pause(500)
+// .options({speed: 200})
+// .delete(7)
+// .type('he store.')
+// .pause(500)
+// .break()
+// .options({speed: 45})
+// .type('Her instructions were <em>"Buy butter. See if they have 10 eggs. If they do, buy ten.</em>"')
+// .pause(1000)
+// .break()
+// .type('He came back with ten packs of butter. ')
+// .pause(1000)
+// .type('Because they have eggs.');
+
+
+
+  </script>
 </body>
 </html>
