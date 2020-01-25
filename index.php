@@ -5,7 +5,7 @@
   <title>IPMD || Institute of Policy Management Development</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="IPMD || Institute of Policy Management Development" name="keywords">
-  <meta content="IPMD || Institute of Policy Management Development" name="description">
+  <meta content="IPMD || Institute of Policy Management Development<span>" name="description">
 
   <!-- Favicons -->
   
@@ -138,8 +138,8 @@
           </div>
 
           <div class="col-lg-6 content">
-            <h2>Institute of Policy Management Development</h2>
-            <h3>Institute of Policy Management Development (IPMD) was registered in 2008 at the Corporate Affairs Commission, RC: 749491, as a professional body Limited by Guarantee to promote professionalism in Policy Management. We are driven by an unmitigated passion that is anchored in these core values:</h3>
+            <h2>Institute of Policy Management Development <sub class="tagline" >(IPMD)</sub></h2>
+            <h3>Institute of Policy Management Development <sub class="tagline">(IPMD)</sub> was registered in 2008 at the Corporate Affairs Commission, RC: 749491, as a professional body Limited by Guarantee to promote professionalism in Policy Management. We are driven by an unmitigated passion that is anchored in these core values:</h3>
 
             <ul>
               <li><i class="ion-android-checkmark-circle"></i>PROFESSIONALISM AND INTEGRITY</li>
@@ -609,10 +609,30 @@
   <script src="https://cdn.jsdelivr.net/npm/typeit/dist/typeit.min.js"></script>
   <script>
     new TypeIt('#type-effect')
-  .type('')
-  .pause(1000)
-  .delete(12)
-  .type('')
+    .type('')
+.pause(300)
+.options({speed: 200})
+.delete(3)
+.options({speed: 45})
+.pause(300)
+.type('mer\'s wife sent him to teh sto.')
+.pause(500)
+.options({speed: 200})
+.delete(7)
+.type('he store.')
+.pause(500)
+.break()
+.options({speed: 45})
+.type('Her instructions were <em>"Buy butter. See if they have 10 eggs. If they do, buy ten.</em>"')
+.pause(1000)
+.break()
+.type('He came back with ten packs of butter. ')
+.pause(1000)
+.type('Because they have eggs.');
+  // .type('')
+  // .pause(1000)
+  // .type('')
+  // .delete(12)
   .go();
 
 //   new TypeIt('#element', {

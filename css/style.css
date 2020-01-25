@@ -10,6 +10,7 @@ body {
   background: #fff;
   color: #444;
   font-family: "Open Sans", sans-serif;
+  font-weight: bolder;
 }
 
 a {
@@ -23,6 +24,9 @@ a:focus {
   color: yellow;
   outline: none;
   text-decoration: none;
+}
+.tagline{
+  color: red;
 }
 
 p {
@@ -552,7 +556,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #about .content h3 {
   color: #555;
-  font-weight: 300;
+  font-weight: bolder;
   font-size: 18px;
   line-height: 26px;
   font-style: italic;
@@ -816,19 +820,21 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------*/
 
 #call-to-action {
-  background: #dad01d;
+  background: yellow;
   background-size: cover;
   padding: 40px 0;
 }
 
 #call-to-action .cta-title {
-  color: blue;
+  color: green;
   font-size: 28px;
   font-weight: 700;
 }
 
 #call-to-action .cta-text {
   color: #fff;
+  font-size: 24px;
+  font-weight: bolder;
 }
 
 #call-to-action .cta-btn {
