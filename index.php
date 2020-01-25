@@ -610,9 +610,10 @@
   <script>
     new TypeIt('#type-effect')
   .type('')
-  .pause(1000)
+  .pause(2000)
   .delete(12)
   .type('')
+
   .go();
 
 //   new TypeIt('#element', {
