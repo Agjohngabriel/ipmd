@@ -55,7 +55,7 @@
     <div class="container">
 
       <div id="logo" class="pull-left">
-        <a href="index.php"><img src="img/logo-header.png" alt="" title="" width="200px;"></a>
+        <a href="index.php"><img src="img/logo-header.png" alt="" title="" width="250px;"></a>
       </div>
 
       <nav id="nav-menu-container">
@@ -64,10 +64,10 @@
           <li><a href="#about">About Us</a></li>
           <li class="menu-has-children"><a href="">Membership</a>
             <ul>
-              <li><a href="#">Drop Down 1</a></li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 4</a></li>
-              <li><a href="#">Drop Down 5</a></li>
+              <li><a href="#">How to apply</a></li>
+              <li><a href="#">Forms</a></li>
+              <li><a href="#">Drop Down </a></li>
+              <li><a href="#">Drop git</a></li>
             </ul>
           </li>
           <li class="menu-has-children"><a href="">Management</a>
@@ -95,7 +95,7 @@
   <section id="intro">
 
     <div class="intro-content">
-      <h2 id="type-effect">Promoting Quality Leadership<br>Through Education!</h2>
+      <h2 id="type-effect"></h2>
       <!-- <div>
         <a href="#about" class="btn-get-started scrollto">Awards</a>
         <a href="#portfolio" class="btn-projects scrollto">Application Forms</a>
@@ -111,14 +111,14 @@
     </div>
 
   </section><!-- #intro -->
-  <section id="call-to-action" class="wow fadeInUp">
+  <section id="intro_banner" class="wow fadeInUp">
       <div class="container">
         <div class="row">
-          <div class="col-lg-9 text-center text-lg-left">
+          <div class="col-lg-6 text-center text-lg-left">
             <h3 class="cta-title">Welcome to IPMD</h3>
-            <p class="cta-text">Here we promotes professionalism in policy management, tailored education, training, research and consultancy.</p>
+          
           </div>
-          <div class="col-lg-3 cta-btn-container text-center">
+          <div class="col-lg-6 cta-btn-container text-center">
             <a class="cta-btn align-middle" href="#">More About Us</a>
           </div>
         </div>
@@ -134,7 +134,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-6 about-img">
-            <img src="img/intro-carousel/2.jpeg" alt="">
+            <img src="img/intro-carousel/17.jpeg" alt="">
           </div>
 
           <div class="col-lg-6 content">
@@ -609,32 +609,55 @@
   <script src="https://cdn.jsdelivr.net/npm/typeit/dist/typeit.min.js"></script>
   <script>
     new TypeIt('#type-effect')
-  .type('')
-  .pause(2000)
-  .delete(12)
-  .type('')
+  .type('Promoting Quality Leadership<br>Through Education!')
+  .pause(300)
+  .options({speed: 300})
+  .delete(10)
+  .options({speed: 60})
+  .pause(300)
+  .type('policy management!')
+  .pause(400)
+  .options({speed: 300})
+  .delete(18)
+  .options({speed: 55})
+  .pause(400)
+  .type('training!')
+  .pause(400)
+  .options({speed: 300})
+  .delete(9)
+  .options({speed: 55})
+  .pause(400)
+  .type('research!')
+  .pause(400)
+  .options({speed: 300})
+  .delete(9)
+  .options({speed: 55})
+  .pause(300)
+  .type('consultancy!')
+  .go();
+  
 
-    .type('')
-.pause(300)
-.options({speed: 200})
-.delete(3)
-.options({speed: 45})
-.pause(300)
-.type('mer\'s wife sent him to teh sto.')
-.pause(500)
-.options({speed: 200})
-.delete(7)
-.type('he store.')
-.pause(500)
-.break()
-.options({speed: 45})
-.type('Her instructions were <em>"Buy butter. See if they have 10 eggs. If they do, buy ten.</em>"')
-.pause(1000)
-.break()
-.type('He came back with ten packs of butter. ')
-.pause(1000)
-.type('Because they have eggs.')
-.go();
+//     .type('')
+// .pause(300)
+// .options({speed: 200})
+// .delete(3)
+// .options({speed: 45})
+// .pause(300)
+// .type('mer\'s wife sent him to teh sto.')
+// .pause(500)
+// .options({speed: 200})
+// .delete(7)
+// .type('he store.')
+// .pause(500)
+// .break()
+// .options({speed: 45})
+// .type('Her instructions were <em>"Buy butter. See if they have 10 eggs. If they do, buy ten.</em>"')
+// .pause(1000)
+// .break()
+// .type('He came back with ten packs of butter. ')
+// .pause(1000)
+// .type('Because they have eggs.')
+// .go();
  
 // .type('')
   // .pause(1000)
