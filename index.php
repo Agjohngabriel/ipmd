@@ -55,7 +55,7 @@
     <div class="container">
 
       <div id="logo" class="pull-left">
-        <a href="index.php"><img src="img/logo-header.png" alt="" title="" width="250px;"></a>
+        <a href="index.php"><img src="img/logo-header.png" alt="" title="" width="270px;"></a>
       </div>
 
       <nav id="nav-menu-container">
@@ -159,7 +159,7 @@
       <div class="container">
         <div class="section-header">
           <h2>Who We Are</h2>
-          <p>Ipmd is a professional body that deals with Education, workshop, research, seminer, consultant and inductions of fellows and members of the institute.</p>
+          <p>IPMD is a professional body that deals with education, training, research, policy analysis, consultancy, seminars, workshops, conferences, induction of members and fellows of the institute and awards.</p>
         </div>
 
         <div class="row">
@@ -609,31 +609,27 @@
   <script src="https://cdn.jsdelivr.net/npm/typeit/dist/typeit.min.js"></script>
   <script>
     new TypeIt('#type-effect')
-  .type('Promoting Quality Leadership<br>Through Education!')
+  .type('Promoting Quality Leadership<br>Through Education, ')
   .pause(300)
   .options({speed: 300})
-  .delete(10)
   .options({speed: 60})
   .pause(300)
-  .type('policy management!')
+  .type('Policy Analysis, ')
   .pause(400)
   .options({speed: 300})
-  .delete(18)
   .options({speed: 55})
   .pause(400)
-  .type('training!')
+  .type('Training, ')
   .pause(400)
   .options({speed: 300})
-  .delete(9)
   .options({speed: 55})
   .pause(400)
-  .type('research!')
+  .type('Research, ')
   .pause(400)
   .options({speed: 300})
-  .delete(9)
   .options({speed: 55})
   .pause(300)
-  .type('consultancy!')
+  .type('and Consultancy, ')
   .go();
   
 
