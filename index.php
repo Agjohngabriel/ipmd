@@ -142,109 +142,69 @@
     <!--==========================
       Our Portfolio Section
     ============================-->
-    <section id="portfolio" class="wow fadeInUp">
+
+
+
+    <section id="services">
       <div class="container">
         <div class="section-header">
-          <h2>Standing Committee</h2>
-          <p>Sed tamen tempor magna labore dolore dolor sint tempor duis magna elit veniam aliqua esse amet veniam enim export quid quid veniam aliqua eram noster malis nulla duis fugiat culpa esse aute nulla ipsum velit export irure minim illum fore</p>
+          <h2>Our Standing Committee</h2>
         </div>
-      </div>
 
-      <div class="container-fluid">
-        <div class="row no-gutters">
+        <div class="row">
 
-          <div class="col-lg-4 col-md-4">
-            <div class="portfolio-item wow fadeInUp">
-              <a href="#" class="portfolio-popup">
-                <img src="assets/img/intro-carousel/15.jpeg" alt="">
-                <div class="portfolio-overlay">
-                  <div class="portfolio-info"><h2 class="wow fadeInUp">Membership Committee</h2></div>
-                </div>
-              </a>
+          <div class="col-lg-6">
+            <div class="box wow fadeInLeft">
+              <div class="icon"><i class="fa fa-bar-chart"></i></div>
+              <h4 class="title"><a href="">Membership Committee</a></h4>
+              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident etiro rabeta lingo.</p>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-4">
-            <div class="portfolio-item wow fadeInUp">
-              <a href="#" class="portfolio-popup">
-                <img src="assets/img/intro-carousel/1.jpeg" alt="">
-                <div class="portfolio-overlay">
-                  <div class="portfolio-info"><h2 class="wow fadeInUp">EDUCATIONAL/TRAINING COMMITTEE</h2></div>
-                </div>
-              </a>
+          <div class="col-lg-6">
+            <div class="box wow fadeInRight">
+              <div class="icon"><i class="fa fa-picture-o"></i></div>
+              <h4 class="title"><a href="">Dolor Sitema</a></h4>
+              <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata nodera clas.</p>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-4">
-            <div class="portfolio-item wow fadeInUp"> 
-              <a href="#" class="portfolio-popup">
-                <img src="assets/img/intro-carousel/13.jpeg" alt="">
-                <div class="portfolio-overlay">
-                  <div class="portfolio-info"><h2 class="wow fadeInUp">INDUCTION AND AWARDS COMMITTEE</h2></div>
-                </div>
-              </a>
+          <div class="col-lg-6">
+            <div class="box wow fadeInLeft" data-wow-delay="0.2s">
+              <div class="icon"><i class="fa fa-shopping-bag"></i></div>
+              <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
+              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur trinige zareta lobur trade.</p>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-4">
-            <div class="portfolio-item wow fadeInUp">
-              <a href="#" class="portfolio-popup">
-                <img src="assets/img/intro-carousel/3.jpeg" alt="">
-                <div class="portfolio-overlay">
-                  <div class="portfolio-info"><h2 class="wow fadeInUp">EXAMINATIONS COMMITTEE</h2></div>
-                </div>
-              </a>
+          <div class="col-lg-6">
+            <div class="box wow fadeInRight" data-wow-delay="0.2s">
+              <div class="icon"><i class="fa fa-map"></i></div>
+              <h4 class="title"><a href="">Magni Dolores</a></h4>
+              <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum rideta zanox satirente madera</p>
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="box wow fadeInLeft" data-wow-delay="0.2s">
+              <div class="icon"><i class="fa fa-shopping-bag"></i></div>
+              <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
+              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur trinige zareta lobur trade.</p>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-4">
-            <div class="portfolio-item wow fadeInUp">
-              <a href="#" class="portfolio-popup">
-                <img src="assets/img/intro-carousel/16.jpeg" alt="">
-                <div class="portfolio-overlay">
-                  <div class="portfolio-info"><h2 class="wow fadeInUp">PUBLICATIONS AND EDITORIAL COMMITTEE</h2></div>
-                </div>
-              </a>
+          <div class="col-lg-6">
+            <div class="box wow fadeInRight" data-wow-delay="0.2s">
+              <div class="icon"><i class="fa fa-map"></i></div>
+              <h4 class="title"><a href="">Magni Dolores</a></h4>
+              <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum rideta zanox satirente madera</p>
             </div>
           </div>
-
-          <div class="col-lg-4 col-md-4">
-            <div class="portfolio-item wow fadeInUp">
-              <a href="#" class="portfolio-popup">
-                <img src="assets/img/intro-carousel/12.jpeg" alt="">
-                <div class="portfolio-overlay">
-                  <div class="portfolio-info"><h2 class="wow fadeInUp">Portfolio Item 6</h2></div>
-                </div>
-              </a>
-            </div>
-          </div>
-
-          <!-- <div class="col-lg-3 col-md-4">
-            <div class="portfolio-item wow fadeInUp">
-              <a href="img/portfolio/7.jpg" class="portfolio-popup">
-                <img src="assets/img/portfolio/7.jpg" alt="">
-                <div class="portfolio-overlay">
-                  <div class="portfolio-info"><h2 class="wow fadeInUp">Portfolio Item 7</h2></div>
-                </div>
-              </a>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-4">
-            <div class="portfolio-item wow fadeInUp">
-              <a href="img/portfolio/8.jpg" class="portfolio-popup">
-                <img src="assets/img/portfolio/8.jpg" alt="">
-                <div class="portfolio-overlay">
-                  <div class="portfolio-info"><h2 class="wow fadeInUp">Portfolio Item 8</h2></div>
-                </div>
-              </a>
-            </div>
-          </div> -->
 
         </div>
 
       </div>
-    </section><!-- #portfolio -->
+    </section><!-- #services -->
+  <!-- #portfolio -->
 
     <!--==========================
       Testimonials Section
