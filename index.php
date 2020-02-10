@@ -632,7 +632,7 @@
   .options({speed: 300})
   .options({speed: 55})
   .pause(300)
-  .type('and Consultancy, ')
+  .type('and Consultancy ')
   .go();
   
 
