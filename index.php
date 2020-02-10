@@ -61,28 +61,31 @@
       <nav id="nav-menu-container">
         <ul class="nav-menu">
           <li class="menu-active"><a href="#body">Home</a></li>
-          <li><a href="#about">About Us</a></li>
+          <li><a href="#about">Governing Council</a></li>
+          <li><a href="#about">Advisory Board Members</a></li>
+          <li><a href="#about">Management</a></li>
           <li class="menu-has-children"><a href="">Membership</a>
             <ul>
-              <li><a href="#">How to apply</a></li>
-              <li><a href="#">Forms</a></li>
-              <li><a href="#">Drop Down </a></li>
-              <li><a href="#">Drop git</a></li>
+              <li><a href="#">Membership Committee</a></li>
+              <li><a href="#">Grades Of Membership</a></li>
+              <li><a href="#">Benefits of Membership</a></li>
+              <li><a href="#">Membership Form</a></li>
+              <li><a href="#">Membership Register</a></li>
+              <li><a href="#">IPMD Braded items</a></li>
+              <li><a href="#">Event Pictures</a></li>
             </ul>
           </li>
-          <li class="menu-has-children"><a href="">Management</a>
-            <ul>
-              <li><a href="#">Standing Committee</a></li>
-            </ul>
-          </li>
-          <li class="menu-has-children"><a href="">Printing</a>
+          <li class="menu-has-children"><a href="">Leadership Awards</a>
             <ul>
               <li><a href="#">Publication</a></li>
+              <li><a href="#">Educational Leadership</a></li>
+              <li><a href="#">Legislative Excellence</a></li>
+              <li><a href="#">ICON of Leadership</a></li>
             </ul>
           </li>
-          <li><a href="#contact">Contact</a></li>
-          <li><a href="#about" class="btn-get-started scrollto">Awards</a></li>
-          <li><a href="#portfolio" class="btn-projects scrollto">Application Forms</a></li>
+          <!-- <li><a href="#about">Publication</a></li> -->
+          <!-- <li><a href="#about">IPMD News</a></li> -->
+
         </ul>
       </nav><!-- #nav-menu-container -->
       
@@ -159,7 +162,7 @@
       <div class="container">
         <div class="section-header">
           <h2>Who We Are</h2>
-          <p>IPMD is a professional body that deals with education, training, research, policy analysis, consultancy, seminars, workshops, conferences, induction of members and fellows of the institute and awards.</p>
+          <p>IPMD is a professional body that involves in education, training, research, policy analysis, consultancy, seminars, workshops, conferences, induction of members and fellows of the institute and awards.</p>
         </div>
 
         <div class="row">
@@ -176,7 +179,7 @@
             <div class="box wow fadeInRight">
               <div class="icon"><i class="fa fa-picture-o"></i></div>
               <h4 class="title"><a href="">Our Mission</a></h4>
-              <p class="description">To create a world-class forum for sustainable best policy management practice that would ensure consistency, regulation, efficiency and proper policy implementation management by policy executors, and to develop standards and frameworks for regular review and analysis of policies and their implementation strategies.</p>
+              <p class="description">To create a world-class forum for sustainable best policy management practice that would ensure consistency, regulation, efficiency and proper policy implementation management by policy executors, and to develop standards and framework for regular review and analysis of policies and their implementation strategies.</p>
             </div>
           </div>
 
@@ -614,17 +617,17 @@
   .options({speed: 300})
   .options({speed: 60})
   .pause(300)
-  .type('Policy Analysis, ')
-  .pause(400)
-  .options({speed: 300})
-  .options({speed: 55})
-  .pause(400)
   .type('Training, ')
   .pause(400)
   .options({speed: 300})
   .options({speed: 55})
   .pause(400)
   .type('Research, ')
+  .pause(400)
+  .options({speed: 300})
+  .options({speed: 55})
+  .pause(400)
+  .type('Policy Analysis, ')
   .pause(400)
   .options({speed: 300})
   .options({speed: 55})
