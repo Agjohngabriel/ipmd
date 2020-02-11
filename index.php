@@ -1,100 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>IPMD || Institute of Policy Management Development</title>
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <meta content="IPMD || Institute of Policy Management Development" name="keywords">
-  <meta content="IPMD || Institute of Policy Management Development<span>" name="description">
 
-  <!-- Favicons -->
-  
-  <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800|Montserrat:300,400,700" rel="stylesheet">
-
-  <!-- Bootstrap CSS File -->
-  <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
-  <!-- Libraries CSS Files -->
-  <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <link href="lib/animate/animate.min.css" rel="stylesheet">
-  <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
-  <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-  <link href="lib/magnific-popup/magnific-popup.css" rel="stylesheet">
-  <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
-  <!-- Main Stylesheet File -->
-  <link href="css/style.css" rel="stylesheet">
-  
-</head>
-
-<body id="body">
-
-  <!--==========================
-    Top Bar
-  ============================-->
-  <section id="topbar" class="d-none d-lg-block">
-    <div class="container clearfix">
-      <div class="contact-info float-left">
-        <i class="fa fa-envelope-o"></i> <a href="mailto:info@ipmd.com.ng">info@ipmd.com.ng</a>
-        <i class="fa fa-phone"></i> +234 0805 734 4355
-      </div>
-      <div class="social-links float-right">
-        <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
-        <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
-        <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
-        <a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
-        <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
-      </div>
-    </div>
-  </section>
-
-  <!--==========================
-    Header
-  ============================-->
-  <header id="header">
-    <div class="container">
-
-      <div id="logo" class="pull-left">
-        <a href="index.php"><img src="img/logo-header.png" alt="" title="" width="270px;"></a>
-      </div>
-
-      <nav id="nav-menu-container">
-        <ul class="nav-menu">
-          <li class="menu-active"><a href="#body">Home</a></li>
-          <li><a href="#about">Governing Council</a></li>
-          <li><a href="#about">Advisory Board Members</a></li>
-          <li><a href="#about">Management</a></li>
-          <li class="menu-has-children"><a href="">Membership</a>
-            <ul>
-              <li><a href="#">Membership Committee</a></li>
-              <li><a href="#">Grades Of Membership</a></li>
-              <li><a href="#">Benefits of Membership</a></li>
-              <li><a href="#">Membership Form</a></li>
-              <li><a href="#">Membership Register</a></li>
-              <li><a href="#">IPMD Braded items</a></li>
-              <li><a href="#">Event Pictures</a></li>
-            </ul>
-          </li>
-          <li class="menu-has-children"><a href="">Leadership Awards</a>
-            <ul>
-              <li><a href="#">Publication</a></li>
-              <li><a href="#">Educational Leadership</a></li>
-              <li><a href="#">Legislative Excellence</a></li>
-              <li><a href="#">ICON of Leadership</a></li>
-            </ul>
-          </li>
-          <!-- <li><a href="#about">Publication</a></li> -->
-          <!-- <li><a href="#about">IPMD News</a></li> -->
-
-        </ul>
-      </nav><!-- #nav-menu-container -->
-      
-    </div>
-  </header><!-- #header -->
-
-  <!--==========================
-    Intro Section
-  ============================-->
   <section id="intro">
 
     <div class="intro-content">
@@ -137,7 +41,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-6 about-img">
-            <img src="img/intro-carousel/17.jpeg" alt="">
+            <img src="assets/img/intro-carousel/17.jpeg" alt="">
           </div>
 
           <div class="col-lg-6 content">
@@ -215,14 +119,14 @@
         </div>
 
         <div class="owl-carousel clients-carousel">
-          <img src="img/clients/client-1.png" alt="">
-          <img src="img/clients/client-2.png" alt="">
-          <img src="img/clients/client-3.png" alt="">
-          <img src="img/clients/client-4.png" alt="">
-          <img src="img/clients/client-5.png" alt="">
-          <img src="img/clients/client-6.png" alt="">
-          <img src="img/clients/client-7.png" alt="">
-          <img src="img/clients/client-8.png" alt="">
+          <img src="assets/img/clients/client-1.png" alt="">
+          <img src="assets/img/clients/client-2.png" alt="">
+          <img src="assets/img/clients/client-3.png" alt="">
+          <img src="assets/img/clients/client-4.png" alt="">
+          <img src="assets/img/clients/client-5.png" alt="">
+          <img src="assets/img/clients/client-6.png" alt="">
+          <img src="assets/img/clients/client-7.png" alt="">
+          <img src="assets/img/clients/client-8.png" alt="">
         </div>
 
       </div>
@@ -245,7 +149,7 @@
           <div class="col-lg-4 col-md-4">
             <div class="portfolio-item wow fadeInUp">
               <a href="#" class="portfolio-popup">
-                <img src="img/intro-carousel/15.jpeg" alt="">
+                <img src="assets/img/intro-carousel/15.jpeg" alt="">
                 <div class="portfolio-overlay">
                   <div class="portfolio-info"><h2 class="wow fadeInUp">Membership Committee</h2></div>
                 </div>
@@ -256,7 +160,7 @@
           <div class="col-lg-4 col-md-4">
             <div class="portfolio-item wow fadeInUp">
               <a href="#" class="portfolio-popup">
-                <img src="img/intro-carousel/1.jpeg" alt="">
+                <img src="assets/img/intro-carousel/1.jpeg" alt="">
                 <div class="portfolio-overlay">
                   <div class="portfolio-info"><h2 class="wow fadeInUp">EDUCATIONAL/TRAINING COMMITTEE</h2></div>
                 </div>
@@ -267,7 +171,7 @@
           <div class="col-lg-4 col-md-4">
             <div class="portfolio-item wow fadeInUp"> 
               <a href="#" class="portfolio-popup">
-                <img src="img/intro-carousel/13.jpeg" alt="">
+                <img src="assets/img/intro-carousel/13.jpeg" alt="">
                 <div class="portfolio-overlay">
                   <div class="portfolio-info"><h2 class="wow fadeInUp">INDUCTION AND AWARDS COMMITTEE</h2></div>
                 </div>
@@ -278,7 +182,7 @@
           <div class="col-lg-4 col-md-4">
             <div class="portfolio-item wow fadeInUp">
               <a href="#" class="portfolio-popup">
-                <img src="img/intro-carousel/3.jpeg" alt="">
+                <img src="assets/img/intro-carousel/3.jpeg" alt="">
                 <div class="portfolio-overlay">
                   <div class="portfolio-info"><h2 class="wow fadeInUp">EXAMINATIONS COMMITTEE</h2></div>
                 </div>
@@ -289,7 +193,7 @@
           <div class="col-lg-4 col-md-4">
             <div class="portfolio-item wow fadeInUp">
               <a href="#" class="portfolio-popup">
-                <img src="img/intro-carousel/16.jpeg" alt="">
+                <img src="assets/img/intro-carousel/16.jpeg" alt="">
                 <div class="portfolio-overlay">
                   <div class="portfolio-info"><h2 class="wow fadeInUp">PUBLICATIONS AND EDITORIAL COMMITTEE</h2></div>
                 </div>
@@ -300,7 +204,7 @@
           <div class="col-lg-4 col-md-4">
             <div class="portfolio-item wow fadeInUp">
               <a href="#" class="portfolio-popup">
-                <img src="img/intro-carousel/12.jpeg" alt="">
+                <img src="assets/img/intro-carousel/12.jpeg" alt="">
                 <div class="portfolio-overlay">
                   <div class="portfolio-info"><h2 class="wow fadeInUp">Portfolio Item 6</h2></div>
                 </div>
@@ -311,7 +215,7 @@
           <!-- <div class="col-lg-3 col-md-4">
             <div class="portfolio-item wow fadeInUp">
               <a href="img/portfolio/7.jpg" class="portfolio-popup">
-                <img src="img/portfolio/7.jpg" alt="">
+                <img src="assets/img/portfolio/7.jpg" alt="">
                 <div class="portfolio-overlay">
                   <div class="portfolio-info"><h2 class="wow fadeInUp">Portfolio Item 7</h2></div>
                 </div>
@@ -322,7 +226,7 @@
           <div class="col-lg-3 col-md-4">
             <div class="portfolio-item wow fadeInUp">
               <a href="img/portfolio/8.jpg" class="portfolio-popup">
-                <img src="img/portfolio/8.jpg" alt="">
+                <img src="assets/img/portfolio/8.jpg" alt="">
                 <div class="portfolio-overlay">
                   <div class="portfolio-info"><h2 class="wow fadeInUp">Portfolio Item 8</h2></div>
                 </div>
@@ -348,55 +252,55 @@
 
             <div class="testimonial-item">
               <p>
-                <img src="img/quote-sign-left.png" class="quote-sign-left" alt="">
+                <img src="assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
                 Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
-                <img src="img/quote-sign-right.png" class="quote-sign-right" alt="">
+                <img src="assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
               </p>
-              <img src="img/testimonial-1.jpg" class="testimonial-img" alt="">
+              <img src="assets/img/testimonial-1.jpg" class="testimonial-img" alt="">
               <h3>Saul Goodman</h3>
               <h4>Ceo &amp; Founder</h4>
             </div>
 
             <div class="testimonial-item">
               <p>
-                <img src="img/quote-sign-left.png" class="quote-sign-left" alt="">
+                <img src="assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
                 Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
-                <img src="img/quote-sign-right.png" class="quote-sign-right" alt="">
+                <img src="assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
               </p>
-              <img src="img/testimonial-2.jpg" class="testimonial-img" alt="">
+              <img src="assets/img/testimonial-2.jpg" class="testimonial-img" alt="">
               <h3>Sara Wilsson</h3>
               <h4>Designer</h4>
             </div>
 
             <div class="testimonial-item">
               <p>
-                <img src="img/quote-sign-left.png" class="quote-sign-left" alt="">
+                <img src="assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
                 Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
-                <img src="img/quote-sign-right.png" class="quote-sign-right" alt="">
+                <img src="assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
               </p>
-              <img src="img/testimonial-3.jpg" class="testimonial-img" alt="">
+              <img src="assets/img/testimonial-3.jpg" class="testimonial-img" alt="">
               <h3>Jena Karlis</h3>
               <h4>Store Owner</h4>
             </div>
 
             <div class="testimonial-item">
               <p>
-                <img src="img/quote-sign-left.png" class="quote-sign-left" alt="">
+                <img src="assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
                 Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
-                <img src="img/quote-sign-right.png" class="quote-sign-right" alt="">
+                <img src="assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
               </p>
-              <img src="img/testimonial-4.jpg" class="testimonial-img" alt="">
+              <img src="assets/img/testimonial-4.jpg" class="testimonial-img" alt="">
               <h3>Matt Brandon</h3>
               <h4>Freelancer</h4>
             </div>
 
             <div class="testimonial-item">
               <p>
-                <img src="img/quote-sign-left.png" class="quote-sign-left" alt="">
+                <img src="assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
                 Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
-                <img src="img/quote-sign-right.png" class="quote-sign-right" alt="">
+                <img src="assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
               </p>
-              <img src="img/testimonial-5.jpg" class="testimonial-img" alt="">
+              <img src="assets/img/testimonial-5.jpg" class="testimonial-img" alt="">
               <h3>John Larson</h3>
               <h4>Entrepreneur</h4>
             </div>
@@ -435,7 +339,7 @@
         <div class="row">
           <div class="col-lg-3 col-md-6">
             <div class="member">
-              <div class="pic"><img src="img/team-1.jpg" alt=""></div>
+              <div class="pic"><img src="assets/img/team-1.jpg" alt=""></div>
               <div class="details">
                 <h4>Walter White</h4>
                 <span>Chief Executive Officer</span>
@@ -451,7 +355,7 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="member">
-              <div class="pic"><img src="img/team-2.jpg" alt=""></div>
+              <div class="pic"><img src="assets/img/team-2.jpg" alt=""></div>
               <div class="details">
                 <h4>Sarah Jhinson</h4>
                 <span>Product Manager</span>
@@ -467,7 +371,7 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="member">
-              <div class="pic"><img src="img/team-3.jpg" alt=""></div>
+              <div class="pic"><img src="assets/img/team-3.jpg" alt=""></div>
               <div class="details">
                 <h4>William Anderson</h4>
                 <span>CTO</span>
@@ -483,7 +387,7 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="member">
-              <div class="pic"><img src="img/team-4.jpg" alt=""></div>
+              <div class="pic"><img src="assets/img/team-4.jpg" alt=""></div>
               <div class="details">
                 <h4>Amanda Jepson</h4>
                 <span>Accountant</span>
@@ -593,22 +497,22 @@
   <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
 
   <!-- JavaScript Libraries -->
-  <script src="lib/jquery/jquery.min.js"></script>
-  <script src="lib/jquery/jquery-migrate.min.js"></script>
-  <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="lib/easing/easing.min.js"></script>
-  <script src="lib/superfish/hoverIntent.js"></script>
-  <script src="lib/superfish/superfish.min.js"></script>
-  <script src="lib/wow/wow.min.js"></script>
-  <script src="lib/owlcarousel/owl.carousel.min.js"></script>
-  <script src="lib/magnific-popup/magnific-popup.min.js"></script>
-  <script src="lib/sticky/sticky.js"></script>
+  <script src="assets/lib/jquery/jquery.min.js"></script>
+  <script src="assets/lib/jquery/jquery-migrate.min.js"></script>
+  <script src="assets/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/lib/easing/easing.min.js"></script>
+  <script src="assets/lib/superfish/hoverIntent.js"></script>
+  <script src="assets/lib/superfish/superfish.min.js"></script>
+  <script src="assets/lib/wow/wow.min.js"></script>
+  <script src="assets/lib/owlcarousel/owl.carousel.min.js"></script>
+  <script src="assets/lib/magnific-popup/magnific-popup.min.js"></script>
+  <script src="assets/lib/sticky/sticky.js"></script>
 
   <!-- Contact Form JavaScript File -->
-  <script src="contactform/contactform.js"></script>
+  <script src="assets/contactform/contactform.js"></script>
 
   <!-- Template Main Javascript File -->
-  <script src="js/main.js"></script>
+  <script src="assets/js/main.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/typeit/dist/typeit.min.js"></script>
   <script>
     new TypeIt('#type-effect')

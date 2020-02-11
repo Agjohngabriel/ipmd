@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>IPMD || Institute of Policy Management Development</title>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta content="IPMD || Institute of Policy Management Development" name="keywords">
+  <meta content="IPMD || Institute of Policy Management Development<span>" name="description">
+
+  <!-- Favicons -->
+  
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800|Montserrat:300,400,700" rel="stylesheet">
+
+  <!-- Bootstrap CSS File -->
+  <link href="assets/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Libraries CSS Files -->
+  <link href="assets/lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link href="assets/lib/animate/animate.min.css" rel="stylesheet">
+  <link href="assets/lib/ionicons/css/ionicons.min.css" rel="stylesheet">
+  <link href="assets/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="assets/lib/magnific-popup/magnific-popup.css" rel="stylesheet">
+  <link href="assets/lib/ionicons/css/ionicons.min.css" rel="stylesheet">
+  <!-- Main Stylesheet File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+  
+</head>
+
+<body id="body">
+
+  <!--==========================
+    Top Bar
+  ============================-->
+  <section id="topbar" class="d-none d-lg-block">
+    <div class="container clearfix">
+      <div class="contact-info float-left">
+        <i class="fa fa-envelope-o"></i> <a href="mailto:info@ipmd.com.ng">info@ipmd.com.ng</a>
+        <i class="fa fa-phone"></i> +234 0805 734 4355
+      </div>
+      <div class="social-links float-right">
+        <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
+        <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
+        <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
+        <a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
+        <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
+      </div>
+    </div>
+  </section>
+
+  <!--==========================
+    Header
+  ============================-->
+  <header id="header">
+    <div class="container">
+
+      <div id="logo" class="pull-left">
+        <a href="index.php"><img src="assets/img/logo-header.png" alt="" title="" width="270px;"></a>
+      </div>
+
+      <nav id="nav-menu-container">
+        <ul class="nav-menu">
+          <li class="menu-active"><a href="#body">Home</a></li>
+          <li><a href="#about">Governing Council</a></li>
+          <li><a href="#about">Advisory Board Members</a></li>
+          <li><a href="#about">Management</a></li>
+          <li class="menu-has-children"><a href="">Membership</a>
+            <ul>
+              <li><a href="#">Membership Committee</a></li>
+              <li><a href="#">Grades Of Membership</a></li>
+              <li><a href="#">Benefits of Membership</a></li>
+              <li><a href="#">Membership Form</a></li>
+              <li><a href="#">Membership Register</a></li>
+              <li><a href="#">IPMD Braded items</a></li>
+              <li><a href="#">Event Pictures</a></li>
+            </ul>
+          </li>
+          <li class="menu-has-children"><a href="">Leadership Awards</a>
+            <ul>
+              <li><a href="#">Publication</a></li>
+              <li><a href="#">Educational Leadership</a></li>
+              <li><a href="#">Legislative Excellence</a></li>
+              <li><a href="#">ICON of Leadership</a></li>
+            </ul>
+          </li>
+          <!-- <li><a href="#about">Publication</a></li> -->
+          <!-- <li><a href="#about">IPMD News</a></li> -->
+
+        </ul>
+      </nav><!-- #nav-menu-container -->
+      
+    </div>
+  </header><!-- #header -->
