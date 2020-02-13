@@ -55,16 +55,16 @@
     <div class="container">
 
       <div id="logo" class="pull-left">
-        <a href="index.php"><img src="assets/img/logo-header.png" alt="" title="" width="270px;"></a>
+        <a href="index.php"><img src="assets/img/logo-header.png" alt="" title="" width="270px;" class="logo_img"></a>
       </div>
 
       <nav id="nav-menu-container">
         <ul class="nav-menu">
-          <li class="menu-active"><a href="#body">Home</a></li>
-          <li><a href="#about">Governing Council</a></li>
+          <li class="menu-active"><a href="index.php">Home</a></li>
+          <li><a href="governing_council.php">Governing Council</a></li>
           <li><a href="#about">Advisory Board Members</a></li>
           <li><a href="#about">Management</a></li>
-          <li class="menu-has-children"><a href="">Membership</a>
+          <!-- <li class="menu-has-children"><a href="">Membership</a> -->
             <ul>
               <li><a href="#">Membership Committee</a></li>
               <li><a href="#">Grades Of Membership</a></li>
