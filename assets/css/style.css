@@ -359,77 +359,74 @@ h6 {
   position: relative; }
   .ftco-no-pb {
     padding-bottom: 0; }
-    .ftco-animate {
-      opacity: 0;
-      visibility: hidden; }
       .pt-3{
   padding-top: 1rem !important; }
   .staff {
-    overflow: hidden;
-    margin-bottom: 30px;
+  overflow: hidden;
+  margin-bottom: 30px;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  transition: all 0.3s ease; }
+  .staff .img-wrap {
+    height: 300px; }
+  .staff .img {
+    width: 100%;
+    display: block;
+    background-position: top center;
     -moz-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
     -webkit-transition: all 0.3s ease;
     -ms-transition: all 0.3s ease;
     transition: all 0.3s ease; }
-    .staff .img-wrap {
-      height: 300px; }
-    .staff .img {
-      width: 100%;
+  .staff .text {
+    position: relative;
+    background: #fff;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    transition: all 0.3s ease; }
+    .staff .text h3 {
+      font-size: 24px;
+      font-weight: 500;
+      margin-bottom: 0;
+      -moz-transition: all 0.3s ease;
+      -o-transition: all 0.3s ease;
+      -webkit-transition: all 0.3s ease;
+      -ms-transition: all 0.3s ease;
+      transition: all 0.3s ease; }
+    .staff .text .position {
+      text-transform: uppercase;
+      color: #b3b3b3;
       display: block;
-      background-position: top center;
-      -moz-transition: all 0.3s ease;
-      -o-transition: all 0.3s ease;
-      -webkit-transition: all 0.3s ease;
-      -ms-transition: all 0.3s ease;
-      transition: all 0.3s ease; }
-    .staff .text {
-      position: relative;
-      background: #fff;
-      -moz-transition: all 0.3s ease;
-      -o-transition: all 0.3s ease;
-      -webkit-transition: all 0.3s ease;
-      -ms-transition: all 0.3s ease;
-      transition: all 0.3s ease; }
-      .staff .text h3 {
-        font-size: 24px;
-        font-weight: 500;
-        margin-bottom: 0;
-        -moz-transition: all 0.3s ease;
-        -o-transition: all 0.3s ease;
-        -webkit-transition: all 0.3s ease;
-        -ms-transition: all 0.3s ease;
-        transition: all 0.3s ease; }
-      .staff .text .position {
-        text-transform: uppercase;
-        color: #b3b3b3;
-        display: block;
-        letter-spacing: 1px; }
-      .staff .text .faded {
-        opacity: 1; }
-    .staff .ftco-social {
-      position: absolute;
-      top: -30px;
-      left: 0;
-      right: 0;
-      padding: 15px 10px;
-      background: #fff;
-      opacity: 0;
-      -moz-transition: all 0.3s ease;
-      -o-transition: all 0.3s ease;
-      -webkit-transition: all 0.3s ease;
-      -ms-transition: all 0.3s ease;
-      transition: all 0.3s ease; }
-      .staff .ftco-social li a {
-        color: #28a745; }
-    .staff:hover .ftco-social, .staff:focus .ftco-social {
-      opacity: 1;
-      top: -40px; }
-    .staff:hover .img, .staff:focus .img {
-      margin-top: -10px; }
-    .staff:hover .text h3, .staff:focus .text h3 {
-      color: #1eaaf1; }
-  
+      letter-spacing: 1px; }
+    .staff .text .faded {
+      opacity: 1; }
+  .staff .ftco-social {
+    position: absolute;
+    top: -30px;
+    left: 0;
+    right: 0;
+    padding: 15px 10px;
+    background: #fff;
+    opacity: 0;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    transition: all 0.3s ease; }
+    .staff .ftco-social li a {
+      color: #28a745; }
+  .staff:hover .ftco-social, .staff:focus .ftco-social {
+    opacity: 1;
+    top: -40px; }
+  .staff:hover .img, .staff:focus .img {
+    margin-top: -10px; }
+  .staff:hover .text h3, .staff:focus .text h3 {
+    color: #1eaaf1; }
+
 
 /*--------------------------------------------------------------
 # Navigation Menu
