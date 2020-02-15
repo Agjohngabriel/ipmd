@@ -14,13 +14,12 @@
       <div class="container">
         <div class="section-header">
           <h2>Who We Are</h2>
-          <p>IPMD is a professional body that involves in education, training, research, policy analysis, consultancy, seminars, workshops, conferences, induction of members and fellows of the institute and awards.</p>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae ratione, aut at vitae sint voluptatum optio quia expedita esse ipsa eum officiis quis distinctio suscipit similique reprehenderit ullam perferendis dolores. </p>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae ratione, aut at vitae sint voluptatum optio quia expedita esse ipsa eum officiis quis distinctio suscipit similique reprehenderit ullam perferendis dolores. </p>
+          <p>Institute of Policy Management Development (IPMD) was registered in 2008 at the Corporate Affairs Commission, RC:749491, as a professional body limited by Guarantee to promote professionalism in Policy Management</p>
+          <p>Apart froom tailored education, training, research, and consultancy targeted at proferring cost-effective solutions to policy-related tasks, the other main objective of the institute includes:</p>
           <ul>
-              <li><i class="ion-android-checkmark-circle"></i>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum accusamus, ut nemo similique, velit, consequuntur quibusdam ipsa quo maxime maiores magni vero eveniet facere praesentium provident assumenda quod ipsum ad?</li>
-              <li><i class="ion-android-checkmark-circle"></i>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum accusamus, ut nemo similique, velit, consequuntur quibusdam ipsa quo maxime maiores magni vero eveniet facere praesentium provident assumenda quod ipsum ad?</li>
-              <li><i class="ion-android-checkmark-circle"></i>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum accusamus, ut nemo similique, velit, consequuntur quibusdam ipsa quo maxime maiores magni vero eveniet facere praesentium provident assumenda quod ipsum ad?</li>
+              <li><i class="ion-android-checkmark-circle"></i>	To promote the recognition, understanding and application of policy management as a key element for bureaucratic success</li>
+              <li><i class="ion-android-checkmark-circle"></i>To promote and encourage policy management practice among policy formulators and executors as a way of ensuring that policies stay on course for enhanced national productivity and socio-economic well being</li>
+              <li><i class="ion-android-checkmark-circle"></i>To develop the  requisite capacities and skills ne</li>
               <li><i class="ion-android-checkmark-circle"></i>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum accusamus, ut nemo similique, velit, consequuntur quibusdam ipsa quo maxime maiores magni vero eveniet facere praesentium provident assumenda quod ipsum ad?</li>
               <li><i class="ion-android-checkmark-circle"></i>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum accusamus, ut nemo similique, velit, consequuntur quibusdam ipsa quo maxime maiores magni vero eveniet facere praesentium provident assumenda quod ipsum ad?</li>
               <li><i class="ion-android-checkmark-circle"></i>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum accusamus, ut nemo similique, velit, consequuntur quibusdam ipsa quo maxime maiores magni vero eveniet facere praesentium provident assumenda quod ipsum ad?</li>
