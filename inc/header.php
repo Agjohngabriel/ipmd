@@ -62,7 +62,7 @@
         <ul class="nav-menu">
           <li class="menu-active"><a href="index.php">Home</a></li>
           <li><a href="governing_council.php">Governing Council</a></li>
-          <li><a href="#about">Advisory Board Members</a></li>
+          <li><a href="advisory_board.php">Advisory Board Members</a></li>
           <li><a href="#about">Management</a></li>
           <!-- <li class="menu-has-children"><a href="">Membership</a> -->
             <ul>
