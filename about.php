@@ -17,13 +17,13 @@
           <p>Institute of Policy Management Development (IPMD) was registered in 2008 at the Corporate Affairs Commission, RC:749491, as a professional body limited by Guarantee to promote professionalism in Policy Management</p>
           <p>Apart froom tailored education, training, research, and consultancy targeted at proferring cost-effective solutions to policy-related tasks, the other main objective of the institute includes:</p>
           <ul>
-              <li><i class="ion-android-checkmark-circle"></i>	To promote the recognition, understanding and application of policy management as a key element for bureaucratic success</li>
-              <li><i class="ion-android-checkmark-circle"></i>To promote and encourage policy management practice among policy formulators and executors as a way of ensuring that policies stay on course for enhanced national productivity and socio-economic well being</li>
-              <li><i class="ion-android-checkmark-circle"></i>To develop the  requisite capacities and skills ne</li>
-              <li><i class="ion-android-checkmark-circle"></i>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum accusamus, ut nemo similique, velit, consequuntur quibusdam ipsa quo maxime maiores magni vero eveniet facere praesentium provident assumenda quod ipsum ad?</li>
-              <li><i class="ion-android-checkmark-circle"></i>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum accusamus, ut nemo similique, velit, consequuntur quibusdam ipsa quo maxime maiores magni vero eveniet facere praesentium provident assumenda quod ipsum ad?</li>
-              <li><i class="ion-android-checkmark-circle"></i>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum accusamus, ut nemo similique, velit, consequuntur quibusdam ipsa quo maxime maiores magni vero eveniet facere praesentium provident assumenda quod ipsum ad?</li>
-              <li><i class="ion-android-checkmark-circle"></i>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum accusamus, ut nemo similique, velit, consequuntur quibusdam ipsa quo maxime maiores magni vero eveniet facere praesentium provident assumenda quod ipsum ad?</li>
+              <li><i class="ion-android-checkmark-circle"></i> To promote the recognition, understanding and application of policy management as a key element for bureaucratic success.</li>
+              <li><i class="ion-android-checkmark-circle"></i> To promote and encourage policy management practice among policy formulators and executors as a way of ensuring that policies stay on course for enhanced national productivity and socio-economic well being.</li>
+              <li><i class="ion-android-checkmark-circle"></i> To develop the  requisite capacities and skills necessary for effective policy formulation, implementation, monitoring, evaluating and analysis geared towards efficient service delivery and national development.</li>
+              <li><i class="ion-android-checkmark-circle"></i> To promote the development and preservation of noble national values, monuments, icons, legacies and good citizenship through biographical compilation, mobilization, enlightenment and orientation.  </li>
+              <li><i class="ion-android-checkmark-circle"></i> To recognize, promote and honour leadership and career excellence such that overtime the badly needed <q>National Leadership Critical Mass</q> would be built up to trigger the long&mdash;awaited solution to the intractable <q>National Leadership Crisis.</q> </li>
+              <li><i class="ion-android-checkmark-circle"></i> To educate and conduct professional examinations to qualify candidates wishing to register as professional members of IPMD, as well as to carry out induction fo the members into the institute; and</li>
+              <li><i class="ion-android-checkmark-circle"></i> To engage in consultancy, partnership, collaboration and endorsement with local and international development agencies, government MDAs and the OPS to drive policies, proposals and projects for quality public sector service delivery at the grassroot. </li>
               
             </ul>
         </div>
@@ -63,6 +63,42 @@
           </div> -->
 
         </div>
+        <section id="about" class="wow fadeInUp">
+      <div class="container">
+        <div class="row">
+        <div class="col-lg-6 content">
+            <h2>Our Core Values</h2>
+            <h3>IPMD is driven by an unmitigated passion that is anchored on the core values: </h3>
+
+            <ul>
+              <li><i class="ion-android-checkmark-circle"></i>PROFESSIONALISM.</li>
+              <li><i class="ion-android-checkmark-circle"></i>INTEGRITY.</li>
+              <li><i class="ion-android-checkmark-circle"></i>TEAM-WORK.</li>
+              <li><i class="ion-android-checkmark-circle"></i>INNOVATION AND.</li>
+              <li><i class="ion-android-checkmark-circle"></i>EXCELLENCE.</li>
+               
+
+            </ul>
+
+          </div>
+
+          <div class="col-lg-6 content">
+            <h2>Core Service Areas</h2>
+            <h3>IPMD, as a professional body with a seasoned pool of first-rate consultants in diverse areas of learning and skills offers the following core services:</h3>
+
+            <ul>
+              <li><i class="ion-android-checkmark-circle"></i> Local and international workshops, seminars and conferences for cutting-edge policy management development for government ministries, departments and agencies, international organisations as well as the organised private sector (OPS); </li>
+              <li><i class="ion-android-checkmark-circle"></i> Education, research, consultancy and intellectual packaging in diverse areas.  </li>
+              <li><i class="ion-android-checkmark-circle"></i> Publication and circulation of the <i>The Policy Analyst, </i>a quarterly journal of the IPMD covering national and international policy issues.</li>
+              <li><i class="ion-android-checkmark-circle"></i> PLanning, writting, editing, publishing and promoting books, academic journals, biographies, news bulletins and corperate profiling, etc. for government MDAs, the informal and organized private sectors.    </li>
+              <li><i class="ion-android-checkmark-circle"></i> Engaging in mutually beneficial and effective partnerships, collaboration, and endorsements with government MDAs, the OPS, local and international agencies to drive policies for quality public sector service delivery at the grassroot</li>
+            </ul>
+
+          </div>
+        </div>
+
+      </div>
+    </section>
 
 
 

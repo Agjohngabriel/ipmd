@@ -1,4 +1,6 @@
 <?php
+	$title = "IPMD || Governing Council";
+	$active = "menu-active";
 	include 'inc/header.php';
 
 ?>

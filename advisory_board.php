@@ -1,4 +1,5 @@
 <?php
+	$title = "IPMD Advisory Board Members";
 	include 'inc/header.php';
 
 ?>

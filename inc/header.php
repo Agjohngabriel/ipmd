@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>IPMD || Institute of Policy Management Development</title>
+  <title><?= $title ?></title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="IPMD || Institute of Policy Management Development" name="keywords">
   <meta content="IPMD || Institute of Policy Management Development<span>" name="description">
@@ -52,19 +52,18 @@
     Header
   ============================-->
   <header id="header">
-    <div class="container">
+    <div class="container-fluid">
 
       <div id="logo" class="pull-left">
         <a href="index.php"><img src="assets/img/logo-header.png" alt="" title="" width="270px;" class="logo_img"></a>
       </div>
-
-      <nav id="nav-menu-container">
+      <nav id="nav-menu-container" class="nav justify-content-center">
         <ul class="nav-menu">
-          <li class="menu-active"><a href="index.php">Home</a></li>
-          <li><a href="governing_council.php">Governing Council</a></li>
-          <li><a href="advisory_board.php">Advisory Board Members</a></li>
+          <li><a href="index.php">Home</a></li>
+          <li  class="<?= $active ?>"><a href="governing_council.php">Governing Council</a></li>
+          <li><a href="advisory_board.php">Advisory Board</a></li>
           <li><a href="#about">Management</a></li>
-          <!-- <li class="menu-has-children"><a href="">Membership</a> -->
+          <li class="menu-has-children"><a href="">Membership</a>
             <ul>
               <li><a href="#">Membership Committee</a></li>
               <li><a href="#">Grades Of Membership</a></li>
@@ -75,7 +74,7 @@
               <li><a href="#">Event Pictures</a></li>
             </ul>
           </li>
-          <li class="menu-has-children"><a href="">Leadership Awards</a>
+          <li class="menu-has-children"><a href="">Awards</a>
             <ul>
               <li><a href="#">Publication</a></li>
               <li><a href="#">Educational Leadership</a></li>
@@ -83,8 +82,8 @@
               <li><a href="#">ICON of Leadership</a></li>
             </ul>
           </li>
-          <!-- <li><a href="#about">Publication</a></li> -->
-          <!-- <li><a href="#about">IPMD News</a></li> -->
+          <li><a href="#about">Publication</a></li>
+          <li><a href="#about">News</a></li>
 
         </ul>
       </nav><!-- #nav-menu-container -->
