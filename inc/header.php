@@ -65,7 +65,7 @@
           <li><a href="management.php">Management</a></li>
           <li class="menu-has-children"><a href="">Membership</a>
             <ul>
-              <li><a href="membership_committee.php">Membership Committee</a></li>
+              <li><a href="membership_committee.php">Membership Obligation</a></li>
               <li><a href="gradesOfMembership.php">Grades Of Membership</a></li>
               <li><a href="benefitsOfMembership.php">Benefits of Membership</a></li>
               <li><a href="membershipForm.php">Membership Form</a></li>
