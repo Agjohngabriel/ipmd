@@ -66,11 +66,11 @@
           <li class="menu-has-children"><a href="">Membership</a>
             <ul>
               <li><a href="membership_committee.php">Membership Committee</a></li>
-              <li><a href="#">Grades Of Membership</a></li>
-              <li><a href="#">Benefits of Membership</a></li>
-              <li><a href="#">Membership Form</a></li>
+              <li><a href="gradesOfMembership.php">Grades Of Membership</a></li>
+              <li><a href="benefitsOfMembership.php">Benefits of Membership</a></li>
+              <li><a href="membershipForm.php">Membership Form</a></li>
               <li><a href="#">Membership Register</a></li>
-              <li><a href="#">IPMD Braded items</a></li>
+              <li><a href="brandedItems.php">IPMD Branded items</a></li>
               <li><a href="#">Event Pictures</a></li>
             </ul>
           </li>
