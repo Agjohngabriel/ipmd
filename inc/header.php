@@ -65,7 +65,7 @@
           <li><a href="management.php">Management</a></li>
           <li class="menu-has-children"><a href="">Membership</a>
             <ul>
-              <li><a href="membership_committee.php">Membership Obligation</a></li>
+              <li><a href="membership_obligation.php">Membership Obligation</a></li>
               <li><a href="gradesOfMembership.php">Grades Of Membership</a></li>
               <li><a href="benefitsOfMembership.php">Benefits of Membership</a></li>
               <li><a href="membershipForm.php">Membership Form</a></li>
@@ -76,13 +76,12 @@
           </li>
           <li class="menu-has-children"><a href="">Awards</a>
             <ul>
-              <li><a href="#">Publication</a></li>
-              <li><a href="#">Educational Leadership</a></li>
-              <li><a href="#">Legislative Excellence</a></li>
+              <li><a href="educational_award.php">Educational Leadership</a></li>
+              <li><a href="legislative_award.php">Legislative Excellence</a></li>
               <li><a href="#">ICON of Leadership</a></li>
             </ul>
           </li>
-          <li><a href="#about">Publication</a></li>
+          <li><a href="publication.php">Publication</a></li>
           <li><a href="#about">News</a></li>
 
         </ul>
