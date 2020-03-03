@@ -154,14 +154,6 @@
         <div class="row">
 
           <div class="col-lg-6">
-            <div class="box wow fadeInLeft">
-              <div class="icon"><i class="fa fa-bar-chart"></i></div>
-              <h4 class="title"><a href="">Membership Committee</a></h4>
-              <p class="description">For the nomination, screening and recommendation of prospective members for induction into the institute.</p>
-            </div>
-          </div>
-
-          <div class="col-lg-6">
             <div class="box wow fadeInRight">
               <div class="icon"><i class="fa fa-picture-o"></i></div>
               <h4 class="title"><a href="">Education and training committee</a></h4>
@@ -176,7 +168,13 @@
               <p class="description">Responsible for organizing the the IPMD induction and Awards Ceremonies, as well as for identifying, nominating and recommending prospective candidates and organization for Awards for Excellence in leadership in different human endeavours. </p>
             </div>
           </div>
-
+          <div class="col-lg-6">
+            <div class="box wow fadeInLeft">
+              <div class="icon"><i class="fa fa-bar-chart"></i></div>
+              <h4 class="title"><a href="">Membership Committee</a></h4>
+              <p class="description">For the nomination, screening and recommendation of prospective members for induction into the institute.</p>
+            </div>
+          </div>
           <div class="col-lg-6">
             <div class="box wow fadeInRight" data-wow-delay="0.2s">
               <div class="icon"><i class="fa fa-map"></i></div>
