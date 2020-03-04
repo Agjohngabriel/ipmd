@@ -74,13 +74,14 @@
               <li><a href="#">Event Pictures</a></li>
             </ul>
           </li>
-          <li class="menu-has-children"><a href="">Awards</a>
+          <li><a href="awards.php">Awards</a></li>
+          <!-- <li class="menu-has-children"><a href="">Awards</a>
             <ul>
               <li><a href="educational_award.php">Educational Leadership</a></li>
               <li><a href="legislative_award.php">Legislative Excellence</a></li>
               <li><a href="#">ICON of Leadership</a></li>
             </ul>
-          </li>
+          </li> -->
           <li><a href="publication.php">Publication</a></li>
           <li><a href="#about">News</a></li>
 
