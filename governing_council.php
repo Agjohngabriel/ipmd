@@ -33,7 +33,7 @@
 					<div class="col-md-6 col-lg-3 ftco-animate">
 						<div class="staff">
 							<div class="img-wrap d-flex align-items-stretch">
-								<div class="img align-self-stretch" style="background-image: url(assets/img/testimonial-1.jpg);"></div>
+								<div class="img align-self-stretch" style="background-image: url(assets/img/testimonial-3.jpg);"></div>
 							</div>
 							<div class="text pt-3 text-center">
 								<h3>Professor Jacinta A. Opara <span>Bsc, Msc, MED, MBA, PHD, FIPMD, FIMC, FCIA, FBQS, FASI</span> </h3>
