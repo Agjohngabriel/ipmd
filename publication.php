@@ -7,6 +7,7 @@
     </div>
 </section><!-- #intro -->
 
+<?php  include 'inc/error.php';?>
 
 
 <?php include 'inc/footer.php'; ?>
