@@ -27,7 +27,7 @@
       <div class="container">
         <div class="section-header">
           <h2>Search For The “icon”: Criteria For Nomination</h2>
-          <p>To maintain respectability, nobility and acceptability, the process of nominating the “Eagles” shall be subjected to the unbiased template of the IPMD Performance Assessment Rating (IPMD PAR), as follows:</p>
+          <p>To maintain respectability, nobility and acceptability, the process of nominating the “ICON” shall be subjected to the unbiased template of the IPMD Performance Assessment Rating (IPMD PAR), as follows:</p>
           <ul>
               <li class="py-2"><i class="ion-android-checkmark-circle"></i> The nominees must be Nigerians, home or abroad.</li>
               <li class="py-2"><i class="ion-android-checkmark-circle"></i> The nominees can be nominated from any sphere of human endeavour, whether in the public or private sector, with information on their resume and achievements communicated to the IPMD as will be directed.</li>
