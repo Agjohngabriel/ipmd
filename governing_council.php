@@ -34,7 +34,7 @@
 					<div class="col-lg-6 ftco-animate">
 						<div class="staff">
 							<div class="img-wrap d-flex align-items-stretch">
-								<div class="img align-self-stretch" style="background-image: url(assets/img/testimonial-8.jpg);"></div>
+								<div class="img align-self-stretch" style="background-image: url(assets/img/okey.jpg);"></div>
 							</div>
 							<div class="text pt-2 text-center">
 								<h3>Mr. Okey Nworu (B.Sc; Pol.SC; OD Law; FIPMD</h3>
@@ -79,7 +79,7 @@
 					<div class="col-lg-6 ftco-animate">
 						<div class="staff">
 							<div class="img-wrap d-flex align-items-stretch">
-								<div class="img align-self-stretch" style="background-image: url(assets/img/testimonial-8.jpg);"></div>
+								<div class="img align-self-stretch" style="background-image: url(assets/img/Ofey.jpg);"></div>
 							</div>
 							<div class="text pt-2 text-center">
 								<h3>Dr. Uko Ofe (B.Sc; M.Sc; DGD; PGDE; Ph.D; FIPMD)</h3>
@@ -109,7 +109,7 @@
 					<div class="col-lg-6 ftco-animate">
 						<div class="staff">
 							<div class="img-wrap d-flex align-items-stretch">
-								<div class="img align-self-stretch" style="background-image: url(assets/img/testimonial-8.jpg);"></div>
+								<div class="img align-self-stretch" style="background-image: url();"></div>
 							</div>
 							<div class="text pt-2 text-center">
 								<h3>Chief Eke Chukwu</h3>
