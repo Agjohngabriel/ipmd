@@ -94,21 +94,6 @@
 					<div class="col-lg-6 ftco-animate">
 						<div class="staff">
 							<div class="img-wrap d-flex align-items-stretch">
-								<div class="img align-self-stretch" style="background-image: url(assets/img/testimonial-2.jpg);"></div>
-							</div>
-							<div class="text pt-2 text-center">
-								<h3>Chief Chris Uche <span>(SAN); (MIPMD; FIPMD)</span></h3>
-								<span class="position mb-2">Legal Adviser</span>
-								<div class="faded">
-									<p>Chris Uche SAN is a foremost Nigerian legal practitioner with over 30 years of experience. As a result of his distinguished legal practice, he was elevated to the rank of a Senior Advocate of Nigeria in 2003.</p>
-									<p>Chris Uche, SAN is a great believer in the use of his profession as a platform for service to GOD and humanity. He has handled several celebrated cases (many of them pro bono) of national interest and constitutional importance that have hugely impacted on human rights, constitutional and electoral development.</p>
-	              </div>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-6 ftco-animate">
-						<div class="staff">
-							<div class="img-wrap d-flex align-items-stretch">
 								<div class="img align-self-stretch" style="background-image: url();"></div>
 							</div>
 							<div class="text pt-2 text-center">
@@ -131,6 +116,21 @@
 								<div class="faded">
 									<p>Engr. Professor Sabit A. Olagoke is a Chief Lecturer/Research Professor, An Economist and Business Analyst. He is a former head of Department of Mechanical Engoneering, Federal Polytechnic, Ilaro.</p>
 									<p>He is also a one-time Dean of the School of Engineering of the same institution. He is a COREN Engineering Regulation Monitoring Inspector, Ogun-Lagos Zones.</p>
+	             				 </div>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-6 ftco-animate">
+						<div class="staff">
+							<div class="img-wrap d-flex align-items-stretch">
+								<div class="img align-self-stretch" style="background-image: url(assets/img/testimonial-2.jpg);"></div>
+							</div>
+							<div class="text pt-2 text-center">
+								<h3>Chief Chris Uche <span>(SAN); (MIPMD; FIPMD)</span></h3>
+								<span class="position mb-2">Legal Adviser</span>
+								<div class="faded">
+									<p>Chris Uche SAN is a foremost Nigerian legal practitioner with over 30 years of experience. As a result of his distinguished legal practice, he was elevated to the rank of a Senior Advocate of Nigeria in 2003.</p>
+									<p>Chris Uche, SAN is a great believer in the use of his profession as a platform for service to GOD and humanity. He has handled several celebrated cases (many of them pro bono) of national interest and constitutional importance that have hugely impacted on human rights, constitutional and electoral development.</p>
 	              </div>
 							</div>
 						</div>
