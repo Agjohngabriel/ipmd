@@ -20,7 +20,7 @@
         <div class="row">
         <div class="col-lg-6 section-header">
             <h2>Graduate Membership (GMIPMD):</h2>
-            <p>These are graduates of higher institution of learning, IPMD Diploma holder as well final year undergraduates who have been qualified via the institute's Part One Membership Qualifying Examination (MQE1), but who do not have any working experience yet.</p>
+            <p>These are graduates of higher institution of learning, IPMD Diploma holder as well as final year undergraduates who have been qualified via the institute's Part One Membership Qualifying Examination (MQE1), but who do not have any working experience yet.</p>
           </div>
 
           <div class="col-lg-6 section-header">

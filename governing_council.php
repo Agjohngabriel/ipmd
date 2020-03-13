@@ -33,13 +33,14 @@
 					<div class="col-md-6 col-lg-3 ftco-animate">
 						<div class="staff">
 							<div class="img-wrap d-flex align-items-stretch">
-								<div class="img align-self-stretch" style="background-image: url(assets/img/testimonial-3.jpg);"></div>
+								<div class="img align-self-stretch" style="background-image: url(assets/img/testimonial-6.jpg);"></div>
 							</div>
 							<div class="text pt-3 text-center">
 								<h3>Professor Jacinta A. Opara <span>Bsc, Msc, MED, MBA, PHD, FIPMD, FIMC, FCIA, FBQS, FASI</span> </h3>
 								<span class="position mb-2">Chairman</span>
 								<div class="faded">
-									<p>Professor Jacinta A. Opara is a professor of international pedigress with proven track record</p>
+									<p>Professor Jacinta is a leading international environmental scholar, scientist, educator, health researcher, consultant and development activist. She is currently the Dean, Institute of Environmental Health at Ballsbridge University, Dominican Republic and also a visiting Professor of Biodiversity at Department of Environmental Sciences, Laikpia University, Nyahururu-Kenya. She received Msc and PhD Magna Cum Laude from Universidad Central de Nicaragua (UCN) and did post-graduate studies at Akershus University, Lillestrom-Norway.</p>
+									<p>Since the 1990’s she has held teaching, research and consulting experiences across Africa, America, Europe and Asia. Professor Jacinta is the President of Africa Association for teaching and learning; founding Co-Executive Director, Center for Environment and Community Development, and also serves on the Board/Governing Council of Mediterranean Center for Social and Educational Research, Rome Italy</p>
 	              </div>
 							</div>
 						</div>
@@ -53,7 +54,8 @@
 								<h3>Mr. Ndubuisi Ogwo <span>(B.Sc(Hons.); PGD; MIPMD; FIPMD)</span></h3>
 								<span class="position mb-2">Secretary</span>
 								<div class="faded">
-									<p>Mr. Ndubuisi Ogwo is a banker of no mean repute. He is a financial consultant and has played key roles in the growth of many financial institutes in the country. </p>
+									<p>Mr. Ndubuisi Ogwo is a banker of no mean repute. He is a financial consultant and has played keys role in the growth of many financial institutions in the country.</p>
+									<p>He is a professional to the core and has also been a resource person at various conferences and workshops of the Institute of Policy Management Development on Leadership and Management.</p>
 	              </div>
 							</div>
 						</div>
@@ -67,7 +69,8 @@
 								<h3>Chief Chris Uche <span>(SAN); (MIPMD; FIPMD)</span></h3>
 								<span class="position mb-2">Legal Adviser</span>
 								<div class="faded">
-									<p>Chief Uche SAN is a foremost Nigerian Legal practitioner with over 30 years of experience. As a result of his distinguished legal practic, he was elevated to the rank of a Senior Advocate of Nigeria in 2003.</p>
+									<p>Chris Uche SAN is a foremost Nigerian legal practitioner with over 30 years of experience. As a result of his distinguished legal practice, he was elevated to the rank of a Senior Advocate of Nigeria in 2003.</p>
+									<p>Chris Uche, SAN is a great believer in the use of his profession as a platform for service to GOD and humanity. He has handled several celebrated cases (many of them pro bono) of national interest and constitutional importance that have hugely impacted on human rights, constitutional and electoral development.</p>
 	              </div>
 							</div>
 						</div>
