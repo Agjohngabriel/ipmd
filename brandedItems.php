@@ -4,7 +4,7 @@
       <div class="container">
         <div class="section-header">
           <h2>IPMD Branded Items</h2>
-          <p>Branded items of the institute such as conference bags, membership identity cards, car stickers, ties, diaries, almoniac and jotters, etc shall be produced from time to time as a means of publicing the institute thereby Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam repellat recusandae architecto omnis consectetur, nemo aliquam repellendus debitis cum velit nulla deserunt et dolores molestias in placeat. Fugit, earum quia!</p>
+          <p>Branded items of the institute such as conference bags, membership identity cards, car stickers, ties, diaries, almaniac and jotters, etc shall be produced from time to time as a means of creating awareness about the existence of the institute thereby heightening it's acceptability rating among the people</p>
         </div>
       </div>
 

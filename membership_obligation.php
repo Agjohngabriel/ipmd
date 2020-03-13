@@ -11,7 +11,7 @@
       <div class="container">
         <div class="section-header">
           <h2 class="lead">Membership Obligation</h2>
-          <p>As a member, you are IPMD ambassadors and professonals in Policy Management, its development, implementation, monitoring, and evaluation for quality public sector services delivery at your place of work. it is therefore obigatory that every inducted member be guided by the membership rules and regulation of the institute as follows:</p>
+          <p>As a member, you are IPMD ambassadors and professonals in Policy Management, its development, implementation, monitoring, and evaluation for quality public/private sector services delivery at your place of work. it is therefore obigatory that every inducted member be guided by the membership rules and regulation of the institute as follows:</p>
           <ul>
               <li class="py-2 font-weight-lighter"><i class="ion-android-checkmark-circle"></i> To effectively assume responsiblity and leadership in your own little corner of the bureaucratic chain to ensure that the entire policy framework upon which your ministry, department or agency revolves stays on course for efficient quality public sector service delivery for the overall socio-economic well-being of the citizenry.</li>
               <li class="py-2 font-weight-lighter"><i class="ion-android-checkmark-circle"></i> To regularly pay the prescribed Annual Membership Subscription Fee (AMSF), Consistent with your Membership category.</li>

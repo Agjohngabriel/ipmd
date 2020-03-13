@@ -12,7 +12,7 @@
           <h2>Membership Benefits</h2>
           <p>As a member, the following are the benefits that are associated with membership.</p>
           <ul>
-              <li class="py-2"><i class="ion-android-checkmark-circle"></i> Members shall have the right to use the appropriate titular letters: GMIPMD, AMIPMD, MIPMD, or FIPMD consistent with their membership category after their names, which confer professional honor, recognition, personality and status.</li>
+              <li class="py-2"><i class="ion-android-checkmark-circle"></i> Members shall have the right to use the appropriate letters: GMIPMD, AMIPMD, MIPMD, or FIPMD consistent with their membership category after their names, which confer professional honor, recognition, personality and status.</li>
               <li class="py-2"><i class="ion-android-checkmark-circle"></i> Membership certificates approved by the Council and Management are issued to members under the institute's seal.</li>
               <li class="py-2"><i class="ion-android-checkmark-circle"></i> Membership places you on the path of rapid career progression as it enhances your assessment and promotion to responsible position both in government and the organized private sector workplaces.</li>
               <li class="py-2"><i class="ion-android-checkmark-circle"></i> Members are entitiled to to the institute's wall shield plaque, tie, car sticker, branded ball pen and an identification card.</li>

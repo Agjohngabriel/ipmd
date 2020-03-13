@@ -20,7 +20,7 @@
         <div class="row">
         <div class="col-lg-6 section-header">
             <h2>Graduate Membership (GMIPMD):</h2>
-            <p>These are graduates of higher institute of learning, IPMD Diploma holder as well final year undergraduates who have been qualified via the institute's Part One Membership Qualifying Examination (MQE1), but who do not have any working experience yet.</p>
+            <p>These are graduates of higher institution of learning, IPMD Diploma holder as well final year undergraduates who have been qualified via the institute's Part One Membership Qualifying Examination (MQE1), but who do not have any working experience yet.</p>
           </div>
 
           <div class="col-lg-6 section-header">
@@ -36,7 +36,7 @@
 
           <div class="col-lg-6 section-header">
             <h2>Fellowship (FIPMD):</h2>
-            <p>This is the highest cadre of membership reserved for high octane personalities at the top level of their careers in government, the professions or the OPS. These are people who have, through commitment to good policy mangement, implementation, monitoring, evaluation, and quality service delivery, immensely  contributed to the development process of the fatherland. They are men and woman of great achievements in their field of human endeavours and selfless service to humanity. Academically, such Fellowship candidates must have garnered a HND, BA/B.Sc, MA/M.Sc or Ph.D or other approved equivalent educational/professional qualification(s) and ten(10) years working experience. Membership of other recognized professional bodies is an added advantage. Besides qualifying examinations, direct application can be made by qualified candidates, or by nomination by the Membership Committee, and approved by the Governing Council and Management to usher one into this prestigious membership status.   </p>
+            <p>This is the highest cadre of membership reserved for high octane personalities at the top level of their careers in government, the professions or the OPS. These are people who have, through commitment to good policy mangement, implementation, monitoring, evaluation, and quality service delivery, immensely  contributed to the development process of the fatherland. They are men and woman of great achievements in their field of human endeavours and selfless service to humanity. Academically, such Fellowship candidates must have garnered a MA/M.Sc or Ph.D or other approved equivalent educational/professional qualification(s) and ten(10) years working experience. Membership of other recognized professional bodies is an added advantage. Besides qualifying examinations, direct application can be made by qualified candidates, or by nomination by the Membership Committee, and approved by the Governing Council and Management to usher one into this prestigious Fellowship status.   </p>
           </div>
         </div>
 

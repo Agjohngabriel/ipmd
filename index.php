@@ -374,7 +374,7 @@
           <div class="col-md-4">
             <div class="contact-address">
               <i class="ion-ios-location-outline"></i>
-              <h3>Address 1</h3>
+              <h3 class="tagline">Abuja</h3>
               <address>Anbeez Plaza, Block B, Second Floor, Suite 2008, 15 Ndola</address>
               <p><a href="tel:+2348038023557">+234 803 802 3557</a></p>
               <p><a href="tel:+2348066797645">+234 806 679 7645</a></p>
@@ -385,7 +385,7 @@
           <div class="col-md-4">
             <div class="contact-address">
               <i class="ion-ios-location-outline"></i>
-              <h3>Southern Secretariat & Library</h3>
+              <h3 class="tagline">Southern Secretariat & Library</h3>
               <address>131 Aba Owerri Road 1st Floor, Umungasi Aba, Abia State</address>
               <p><a href="tel:+2348166797645">+234 816 679 7645</a></p>
               <p><a href="tel:+2348030977395">+234 803 097 7395</a></p>
