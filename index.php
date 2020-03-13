@@ -185,6 +185,8 @@
             <div class="box wow fadeInLeft" data-wow-delay="0.2s">
               <div class="icon"><i class="fa fa-shopping-bag"></i></div>
               <h4 class="title"><a href="">Publication Committee</a></h4>
+              <p class="description">The committee has the ultimate decision either to accept or not to accept the publication of an article submitted to the institute based on the recommendations of Editorial Board and the publication of policy Analyst.</p>
+
             </div>
           </div>
         </div>
