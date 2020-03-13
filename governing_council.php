@@ -25,7 +25,23 @@
 								<h3>Sunday A. Eke <span>(Dip. M; MCM (UK); MBIM (Lond); MIPMD, FIPMD)</span></h3>
 								<span class="position mb-2">National President</span>
 								<div class="faded">
-									<p>Mr. Sunday Eke was formerly the chairman of the Mericlaims Agencies Nigeria Ltd. Before he proceedde to london for his professional education in Marketing and Management. </p>
+									<p>Mr. Sunday Eke was formerly the Chairman of Mariclaims Agencies Nigeria Ltd. before he proceeded to London for his professional Education in Marketing and Management.</p>
+									<p>Mr. Sunday attended City Tuition Center,London and later went to West London College, Oxford Street, London from 1980 to 1983. He is a professional to the core and resource person at various conferences and workshops of the Institute of Policy Management Development on Leadership and Management.</p>
+	              </div>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-6 ftco-animate">
+						<div class="staff">
+							<div class="img-wrap d-flex align-items-stretch">
+								<div class="img align-self-stretch" style="background-image: url(assets/img/testimonial-8.jpg);"></div>
+							</div>
+							<div class="text pt-2 text-center">
+								<h3>Mr. Okey Nworu (B.Sc; Pol.SC; OD Law; FIPMD</h3>
+								<span class="position mb-2">Vice President</span>
+								<div class="faded">
+									<p>He has made outstanding contribution to human capacity development through his intellectual resourcefulness as a Resources person/consultant. </p>
+									<p>He has also made schorlarly contribution to management which have helped the institute to move forward.</p>
 	              </div>
 							</div>
 						</div>
@@ -63,6 +79,21 @@
 					<div class="col-lg-6 ftco-animate">
 						<div class="staff">
 							<div class="img-wrap d-flex align-items-stretch">
+								<div class="img align-self-stretch" style="background-image: url(assets/img/testimonial-8.jpg);"></div>
+							</div>
+							<div class="text pt-2 text-center">
+								<h3>Dr. Uko Ofe (B.Sc; M.Sc; DGD; PGDE; Ph.D; FIPMD)</h3>
+								<span class="position mb-2">Member</span>
+								<div class="faded">
+									<p>Dr. Ofe is an educationist with a  wealth full of experience in teaching in secondary schools and Tertiary institution.</p>
+									<p>He has published many books. He is a member of major institute of Physics</p>
+	              </div>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-6 ftco-animate">
+						<div class="staff">
+							<div class="img-wrap d-flex align-items-stretch">
 								<div class="img align-self-stretch" style="background-image: url(assets/img/testimonial-2.jpg);"></div>
 							</div>
 							<div class="text pt-2 text-center">
@@ -81,10 +112,10 @@
 								<div class="img align-self-stretch" style="background-image: url(assets/img/testimonial-8.jpg);"></div>
 							</div>
 							<div class="text pt-2 text-center">
-								<h3>Dr. Sunday C. Nwite (BSS; MBA; M.Sc; Ph.D; ACII; IRDI, MIMPD; FIPMD)</h3>
-								<span class="position mb-2">Council Member</span>
+								<h3>Chief Eke Chukwu</h3>
+								<span class="position mb-2">Member</span>
 								<div class="faded">
-									<p>Prof. Sunday Nwite is a professor in the Department of Banking and Finance Ebonyi State University - Abakaliki. His contribution iin Financial Administration has set him apart from many of his mates</p>
+									<p>He has wealth of experience in community leadership and Business Management.</p>
 	              </div>
 							</div>
 						</div>
@@ -98,7 +129,8 @@
 								<h3>Engr. Prof. Sabit A. Olagote <span>Ph.D; FIPMD; JP</span> </h3>
 								<span class="position mb-2">Council Member</span>
 								<div class="faded">
-									<p>Engr. Professor Sabit A. Olagote is a chief Lecturer/Research Professor, an Economist and Business Analyst. He is the former head of Department of Mechanical Engineering, Federal Polytechnic, IIaro.    </p>
+									<p>Engr. Professor Sabit A. Olagoke is a Chief Lecturer/Research Professor, An Economist and Business Analyst. He is a former head of Department of Mechanical Engoneering, Federal Polytechnic, Ilaro.</p>
+									<p>He is also a one-time Dean of the School of Engineering of the same institution. He is a COREN Engineering Regulation Monitoring Inspector, Ogun-Lagos Zones.</p>
 	              </div>
 							</div>
 						</div>
