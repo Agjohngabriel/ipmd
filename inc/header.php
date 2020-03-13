@@ -69,7 +69,7 @@
               <li><a href="gradesOfMembership.php">Grades Of Membership</a></li>
               <li><a href="benefitsOfMembership.php">Benefits of Membership</a></li>
               <li><a href="membershipForm.php">Membership Form</a></li>
-              <li><a href="#">Membership Register</a></li>
+              <li><a href="memberslist.php">Membership List</a></li>
               <li><a href="brandedItems.php">IPMD Branded items</a></li>
               <li><a href="#">Event Pictures</a></li>
             </ul>
