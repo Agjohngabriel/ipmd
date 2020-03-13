@@ -16,12 +16,12 @@
 		<section class="ftco-section ftco-no-pb">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-6 col-lg-3 ftco-animate">
+					<div class="col-lg-6 ftco-animate">
 						<div class="staff">
 							<div class="img-wrap d-flex align-items-stretch">
 								<div class="img align-self-stretch" style="background-image: url(assets/img/testimonial-1.jpg);"></div>
 							</div>
-							<div class="text pt-3 text-center">
+							<div class="text pt-2 text-center">
 								<h3>Sunday A. Eke <span>(Dip. M; MCM (UK); MBIM (Lond); MIPMD, FIPMD)</span></h3>
 								<span class="position mb-2">National President</span>
 								<div class="faded">
@@ -30,12 +30,12 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-md-6 col-lg-3 ftco-animate">
+					<div class=" col-lg-6 ftco-animate">
 						<div class="staff">
 							<div class="img-wrap d-flex align-items-stretch">
 								<div class="img align-self-stretch" style="background-image: url(assets/img/testimonial-6.jpg);"></div>
 							</div>
-							<div class="text pt-3 text-center">
+							<div class="text pt-2 text-center">
 								<h3>Professor Jacinta A. Opara <span>Bsc, Msc, MED, MBA, PHD, FIPMD, FIMC, FCIA, FBQS, FASI</span> </h3>
 								<span class="position mb-2">Chairman</span>
 								<div class="faded">
@@ -45,12 +45,12 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-md-6 col-lg-3 ftco-animate">
+					<div class="col-lg-6 ftco-animate">
 						<div class="staff">
 							<div class="img-wrap d-flex align-items-stretch">
 								<div class="img align-self-stretch" style="background-image: url(assets/img/testimonial-5.jpg);"></div>
 							</div>
-							<div class="text pt-3 text-center">
+							<div class="text pt-2 text-center">
 								<h3>Mr. Ndubuisi Ogwo <span>(B.Sc(Hons.); PGD; MIPMD; FIPMD)</span></h3>
 								<span class="position mb-2">Secretary</span>
 								<div class="faded">
@@ -60,12 +60,12 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-md-6 col-lg-3 ftco-animate">
+					<div class="col-lg-6 ftco-animate">
 						<div class="staff">
 							<div class="img-wrap d-flex align-items-stretch">
 								<div class="img align-self-stretch" style="background-image: url(assets/img/testimonial-2.jpg);"></div>
 							</div>
-							<div class="text pt-3 text-center">
+							<div class="text pt-2 text-center">
 								<h3>Chief Chris Uche <span>(SAN); (MIPMD; FIPMD)</span></h3>
 								<span class="position mb-2">Legal Adviser</span>
 								<div class="faded">
@@ -75,12 +75,12 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-md-6 col-lg-3 ftco-animate">
+					<div class="col-lg-6 ftco-animate">
 						<div class="staff">
 							<div class="img-wrap d-flex align-items-stretch">
 								<div class="img align-self-stretch" style="background-image: url(assets/img/testimonial-8.jpg);"></div>
 							</div>
-							<div class="text pt-3 text-center">
+							<div class="text pt-2 text-center">
 								<h3>Dr. Sunday C. Nwite (BSS; MBA; M.Sc; Ph.D; ACII; IRDI, MIMPD; FIPMD)</h3>
 								<span class="position mb-2">Council Member</span>
 								<div class="faded">
@@ -89,7 +89,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-md-6 col-lg-3 ftco-animate">
+					<div class="col-lg-6 ftco-animate">
 						<div class="staff">
 							<div class="img-wrap d-flex align-items-stretch">
 								<div class="img align-self-stretch" style="background-image: url(assets/img/testimonial-4.jpg)"></div>
