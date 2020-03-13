@@ -5,6 +5,12 @@
 
 ?>
 
+<section id="about_intro">
+    <div class="about_intro-content">
+        <h2>IPMD > Governing Council</h2>
+    </div>
+</section><!-- #intro -->
+
 
 <table width="1090">
 <tbody>

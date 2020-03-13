@@ -18,7 +18,7 @@
 				<div class="col-lg-6 ftco-animate">
 						<div class="staff">
 							<div class="img-wrap d-flex align-items-stretch">
-								<div class="img align-self-stretch" style="background-image: url(assets/img/testimonial-8.jpg);"></div>
+								<div class="img align-self-stretch" style="background-image: url(assets/img/testimonial-8.jpg);background-repeat:no-repeat;"></div>
 							</div>
 							<div class="text pt-2 text-center">
 								<h3>Dr. Sunday C. Nwite (BSS; MBA; M.Sc; Ph.D; ACII; IRDI, MIMPD; FIPMD)</h3>
@@ -33,7 +33,7 @@
 					<div class="col-lg-6 ftco-animate">
 						<div class="staff">
 							<div class="img-wrap d-flex align-items-stretch">
-								<div class="img align-self-stretch" style="background-image: url(assets/img/testimonial-3.jpg);"></div>
+								<div class="img align-self-stretch" style="background-image: url(assets/img/testimonial-3.jpg);background-repeat:no-repeat;"></div>
 							</div>
 							<div class="text pt-2 text-center">
 								<h3>Prof. Carol Chinyere Opara<span>B.A.Ed; M.Ed; Ph.D; FIPMD</span></h3>
@@ -44,7 +44,7 @@
 					<div class="col-lg-6 ftco-animate">
 						<div class="staff">
 							<div class="img-wrap d-flex align-items-stretch">
-								<div class="img align-self-stretch" style="background-image: url(assets/img/testimonial-7.jpg);"></div>
+								<div class="img align-self-stretch" style="background-image: url(assets/img/testimonial-7.jpg);background-repeat:no-repeat;"></div>
 							</div>
 							<div class="text pt-2 text-center">
 								<h3>Prof. (Mrs) Regina Uwaoma Obi, B.Sc, MSc, Ph.D, FIPMD, ABMIPMD, NIH,A, NDMAA, LAP, AICA, BEPCWOAES, MAERD</h3>
@@ -55,7 +55,7 @@
 					<div class="col-lg-6 ftco-animate">
 						<div class="staff">
 							<div class="img-wrap d-flex align-items-stretch">
-								<div class="img align-self-stretch" style="background-image: url(assets/img/member1.jpg);"></div>
+								<div class="img align-self-stretch" style="background-image: url(assets/img/member1.jpg);background-repeat:no-repeat;"></div>
 							</div>
 							<div class="text pt-2 text-center">
 								<h3>Chief Bar. Dr. (Mrs.) Caroline Mbafan Ekpendu, JP. LLB (Hons), BL, LLM, Ph.D, FIPMD.</h3>
