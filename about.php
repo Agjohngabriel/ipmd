@@ -14,7 +14,7 @@
       <div class="container">
         <div class="section-header">
           <h2>Who We Are</h2>
-          <p>Institute of Policy Management Development (IPMD) was registered in 2008 at the Corporate Affairs Commission, RC:749491, as a professional body limited by Guarantee to promote professionalism in Policy Management</p>
+          <p>Institute of Policy Management Development (IPMD) was registered in 2008 at the Corporate Affairs Commission, Abuja. RC:749491, as a professional body limited by Guarantee to promote professionalism in Policy Management</p>
           <p>Apart froom tailored education, training, research, and consultancy targeted at proferring cost-effective solutions to policy-related tasks, the other main objective of the institute includes:</p>
           <ul>
               <li class="py-2"><i class="ion-android-checkmark-circle"></i> To promote the recognition, understanding and application of policy management as a key element for bureaucratic success.</li>
@@ -71,11 +71,11 @@
             <h3>IPMD is driven by an unmitigated passion that is anchored on the core values: </h3>
 
             <ul>
-              <li><i class="ion-android-checkmark-circle"></i>PROFESSIONALISM.</li>
-              <li><i class="ion-android-checkmark-circle"></i>INTEGRITY.</li>
-              <li><i class="ion-android-checkmark-circle"></i>TEAM-WORK.</li>
-              <li><i class="ion-android-checkmark-circle"></i>INNOVATION AND.</li>
-              <li><i class="ion-android-checkmark-circle"></i>EXCELLENCE.</li>
+              <li><i class="ion-android-checkmark-circle"></i>PROFESSIONALISM</li>
+              <li><i class="ion-android-checkmark-circle"></i>INTEGRITY</li>
+              <li><i class="ion-android-checkmark-circle"></i>TEAM-WORK</li>
+              <li><i class="ion-android-checkmark-circle"></i>INNOVATION AND</li>
+              <li><i class="ion-android-checkmark-circle"></i>EXCELLENCE</li>
                
 
             </ul>

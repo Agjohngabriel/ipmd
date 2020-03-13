@@ -179,25 +179,14 @@
             <div class="box wow fadeInRight" data-wow-delay="0.2s">
               <div class="icon"><i class="fa fa-map"></i></div>
               <h4 class="title"><a href="">Examination Committee</a></h4>
-              <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum rideta zanox satirente madera</p>
             </div>
           </div>
           <div class="col-lg-6">
             <div class="box wow fadeInLeft" data-wow-delay="0.2s">
               <div class="icon"><i class="fa fa-shopping-bag"></i></div>
               <h4 class="title"><a href="">Publication Committee</a></h4>
-              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur trinige zareta lobur trade.</p>
             </div>
           </div>
-
-          <div class="col-lg-6">
-            <div class="box wow fadeInRight" data-wow-delay="0.2s">
-              <div class="icon"><i class="fa fa-map"></i></div>
-              <h4 class="title"><a href="">Magni Dolores</a></h4>
-              <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum rideta zanox satirente madera</p>
-            </div>
-          </div>
-
         </div>
 
       </div>
@@ -385,16 +374,22 @@
           <div class="col-md-4">
             <div class="contact-address">
               <i class="ion-ios-location-outline"></i>
-              <h3>Address</h3>
-              <address>IPMD Southern Secretariat Aba, Abia</address>
+              <h3>Address 1</h3>
+              <address>Anbeez Plaza, Block B, Second Floor, Suite 2008, 15 Ndola</address>
+              <p><a href="tel:+2348038023557">+234 803 802 3557</a></p>
+              <p><a href="tel:+2348066797645">+234 806 679 7645</a></p>
+
             </div>
           </div>
 
           <div class="col-md-4">
-            <div class="contact-phone">
-              <i class="ion-ios-telephone-outline"></i>
-              <h3>Phone Number</h3>
-              <p><a href="tel:+155895548855">+234 0805 734 4355</a></p>
+            <div class="contact-address">
+              <i class="ion-ios-location-outline"></i>
+              <h3>Southern Secretariat & Library</h3>
+              <address>131 Aba Owerri Road 1st Floor, Umungasi Aba, Abia State</address>
+              <p><a href="tel:+2348166797645">+234 816 679 7645</a></p>
+              <p><a href="tel:+2348030977395">+234 803 097 7395</a></p>
+
             </div>
           </div>
 
@@ -402,7 +397,7 @@
             <div class="contact-email">
               <i class="ion-ios-email-outline"></i>
               <h3>Email</h3>
-              <p><a href="mailto:info@ipmd.com.ng">info@ipmd.com.ng</a></p>
+              <p><a href="mailto:info@ipmd.com.ng">ipmdhq@gmail.com</a></p>
             </div>
           </div>
 
