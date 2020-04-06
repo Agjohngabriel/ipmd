@@ -17,7 +17,7 @@
               <li class="py-2"><i class="ion-android-checkmark-circle"></i> Membership places you on the path of rapid career progression as it enhances your assessment and promotion to responsible position both in government and the organized private sector workplaces.</li>
               <li class="py-2"><i class="ion-android-checkmark-circle"></i> Members are entitiled to to the institute's wall shield plaque, tie, car sticker, branded ball pen and an identification card.</li>
               <li class="py-2"><i class="ion-android-checkmark-circle"></i> Updating of members' knowledge on current global practice in policy management and development as well as on local and international policy issues through news bulletins and the readership of the <i>THE POLICY ANALYST</i> journal.</li>
-              <li class="py-2"><i class="ion-android-checkmark-circle"></i> Mutually beneficial local and international socio-professional networking in diverse for personal and corperate advancements.</li>
+              <li class="py-2"><i class="ion-android-checkmark-circle"></i> Mutually beneficial local and international socio-professional networking in diverse for personal and co-operate advancements.</li>
               <li class="py-2"><i class="ion-android-checkmark-circle"></i> Participation of members in local and international conference training, workshops and awards, etc at discounted rates.</li>
               
             </ul>

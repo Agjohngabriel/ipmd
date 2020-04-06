@@ -165,7 +165,7 @@
             <div class="box wow fadeInLeft" data-wow-delay="0.2s">
               <div class="icon"><i class="fa fa-shopping-bag"></i></div>
               <h4 class="title"><a href="">Induction and Awards committee</a></h4>
-              <p class="description">Responsible for organizing the the IPMD induction and Awards Ceremonies, as well as for identifying, nominating and recommending prospective candidates and organization for Awards for Excellence in leadership in different human endeavours. </p>
+              <p class="description">Responsible for organizing the the IPMD induction and Awards Ceremonies, as well as for identifying, nominating and recommending prospective candidates and organizations for Awards for Excellence in leadership in different human endeavours. </p>
             </div>
           </div>
           <div class="col-lg-6">
@@ -377,7 +377,7 @@
             <div class="contact-address">
               <i class="ion-ios-location-outline"></i>
               <h3 class="tagline">Abuja</h3>
-              <address>Anbeez Plaza, Block B, Second Floor, Suite 2008, 15 Ndola</address>
+              <address>15 Ndola Cresent, Wuse Zone 5</address>
               <p><a href="tel:+2348038023557">+234 803 802 3557</a></p>
               <p><a href="tel:+2348066797645">+234 806 679 7645</a></p>
 
@@ -389,8 +389,8 @@
               <i class="ion-ios-location-outline"></i>
               <h3 class="tagline">Southern Secretariat & Library</h3>
               <address>131 Aba Owerri Road 1st Floor, Umungasi Aba, Abia State</address>
-              <p><a href="tel:+2348166797645">+234 816 679 7645</a></p>
-              <p><a href="tel:+2348030977395">+234 803 097 7395</a></p>
+              <p><a href="tel:+2348166797645">+234 816 670 2554</a></p>
+              <p><a href="tel:+2348030977395">+234 805 332 0735</a></p>
 
             </div>
           </div>

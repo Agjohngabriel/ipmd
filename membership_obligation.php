@@ -18,7 +18,7 @@
               <li class="py-2 font-weight-lighter"><i class="ion-android-checkmark-circle"></i> To regularly attend Membership Traininig Programs (MTPs), and other activities as may be prescribed by the institute from time to time, aimed at updating member's knowledge and strenghtening the social network of members.</li>
               <li class="py-2 font-weight-lighter"><i class="ion-android-checkmark-circle"></i> To regularly patronise the institute's quarterly journal, <i>The Policy Analyst,</i>by buying and reading it to stay informed on both local and international policy issues.</li>
               <li class="py-2 font-weight-lighter"><i class="ion-android-checkmark-circle"></i> To personally contribute or to cause to contribute scholarly articles to the journal, and to take active interest in creating and sustaining wide readership channels to ensure that the journal becomes a success.</li>
-              <li class="py-2 font-weight-lighter"><i class="ion-android-checkmark-circle"></i> To actively participate in the search and nomination of qualified prospective members on one hand, and individuals/organisation on the other hand, for induction and Awards of Excellence respectively</li>
+              <li class="py-2 font-weight-lighter"><i class="ion-android-checkmark-circle"></i> To actively participate in the search and nomination of qualified prospective members on one hand, and individuals/organisations on the other hand, for induction and Awards of Excellence respectively</li>
               
             </ul>
         </div>
