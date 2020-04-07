@@ -36,8 +36,12 @@
 								<div class="img align-self-stretch" style="background-image: url(assets/img/testimonial-3.jpg);background-repeat:no-repeat;"></div>
 							</div>
 							<div class="text pt-2 text-center">
-								<h3>Prof. Carol Chinyere Opara<span>B.A.Ed; M.Ed; Ph.D; FIPMD</span></h3>
+								<h3>Prof. Carol Chinyere Opara <span>B.A.Ed; M.Ed; Ph.D; FIPMD</span></h3>
 								<span class="position mb-2">Members</span>
+								<div class="faded">
+									<p>Prof. C. C. Opara is a professor of French Education in the Department of Arts and Social Sciences Education, Faculty of Education, University of Lagos. She has over Thirty (30) years of University teaching experience, having taught at Ahmadu Bello University, Zaria (Instutite of Education) and University of Lagos, (Institute of Education and Faculty of Education, Lagos.)</p>
+									<P>She is a Consultant for Trans-Global Educationals, a Consulting Firm that organizes professional workshops and seminars for teachers and adminstrators of school Nigeria. She is a motivator to the core. She motivates and follows-up until the ultimate is achieved</P>
+	              </div>
 							</div>
 						</div>
 					</div>
