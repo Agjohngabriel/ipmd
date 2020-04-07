@@ -157,7 +157,7 @@
             <div class="box wow fadeInRight">
               <div class="icon"><i class="fa fa-picture-o"></i></div>
               <h4 class="title"><a href="">Education and training committee</a></h4>
-              <p class="description">For organizing local and international seminars, conference and training workship, as well as to carry out research, conceptualization and articulation of marketing proposals, training programs and consultancy</p>
+              <p class="description">For organizing local and international seminars, conference and training workshop, as well as to carry out research, conceptualization and articulation of marketing proposals, training programs and consultancy</p>
             </div>
           </div>
 

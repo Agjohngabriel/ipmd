@@ -55,7 +55,7 @@
 								<h3>Mr. Okey Nworu (B.Sc; Pol.SC; OD Law; FIPMD</h3>
 								<span class="position mb-2">Vice President</span>
 								<div class="faded">
-									<p>He has made outstanding contribution to human capacity development through his intellectual resourcefulness as a Resources person/Consultant. </p>
+									<p>He has made outstanding contribution to human capacity development through his intellectual resourcefulness as a Resource Person/Consultant. </p>
 									<p>He has also made schorlarly contributions to management which have helped the institute to move forward.</p>
 	              </div>
 							</div>
