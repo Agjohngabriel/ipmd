@@ -25,7 +25,7 @@
 
           <div class="col-lg-6 section-header">
             <h2>Associate Membership (AMIPMD):</h2>
-            <p>This grade is  for management trainees and persons with IPMD Diploma Certificate, HND, BA/B.Sc, MA/M.Sc or Ph.D in any discipline or other approved equivalent educational/professional qualification(s), and a minimum of two(2) years working experience in any international organisation, government MDAs or the organised private sector.</p>
+            <p>This grade is  for management trainees and persons with IPMD Diploma Certificate, HND, BA/B.Sc in any discipline or other approved equivalent educational/professional qualification(s), and a minimum of two(2) years working experience in any international organisation, government MDAs or the organised private sector.</p>
           </div>
         </div>
         <div class="row">

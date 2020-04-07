@@ -62,7 +62,6 @@
           <li><a href="index.php">Home</a></li>
           <li  class="<?= $active ?>"><a href="governing_council.php">Governing Council</a></li>
           <li><a href="advisory_board.php">Advisory Board</a></li>
-          <li><a href="management.php">Management</a></li>
           <li class="menu-has-children"><a href="">Membership</a>
             <ul>
               <li><a href="membership_obligation.php">Membership Obligation</a></li>
