@@ -148,7 +148,7 @@
     <section id="services">
       <div class="container">
         <div class="section-header">
-          <h2>Our Standing Committee</h2>
+          <h2>Our Standing Committees</h2>
         </div>
 
         <div class="row">
@@ -157,7 +157,7 @@
             <div class="box wow fadeInRight">
               <div class="icon"><i class="fa fa-picture-o"></i></div>
               <h4 class="title"><a href="">Education and training committee</a></h4>
-              <p class="description">For organizing local and international seminars, conference and training workshop, as well as to carry out research, conceptualization and articulation of marketing proposals, training programs and consultancy</p>
+              <p class="description">For organizing local and international seminars, conference and training workshop, as well as to carry out research, conceptualization and articulation of management proposals, training programs and consultancy</p>
             </div>
           </div>
 
@@ -165,7 +165,7 @@
             <div class="box wow fadeInLeft" data-wow-delay="0.2s">
               <div class="icon"><i class="fa fa-shopping-bag"></i></div>
               <h4 class="title"><a href="">Induction and Awards committee</a></h4>
-              <p class="description">Responsible for organizing the the IPMD induction and Awards Ceremonies, as well as for identifying, nominating and recommending prospective candidates and organizations for Awards for Excellence in leadership in different human endeavours. </p>
+              <p class="description">Responsible for organizing the IPMD induction and Awards Ceremonies, as well as for identifying, nominating and recommending prospective candidates and organizations for Awards for Excellence in leadership in different human endeavours. </p>
             </div>
           </div>
           <div class="col-lg-6">
@@ -185,7 +185,7 @@
             <div class="box wow fadeInLeft" data-wow-delay="0.2s">
               <div class="icon"><i class="fa fa-shopping-bag"></i></div>
               <h4 class="title"><a href="">Publication Committee</a></h4>
-              <p class="description">The committee has the ultimate decision either to accept or not to accept the publication of an article submitted to the institute based on the recommendations of Editorial Board and the publication of policy Analyst.</p>
+              <p class="description">The committee has the ultimate decision either to accept or not to accept the publication of an article submitted to the institute and the publication of policy analyst based on the recommendations of the editorial board.</p>
 
             </div>
           </div>

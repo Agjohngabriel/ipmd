@@ -26,7 +26,7 @@
 								<span class="position mb-2">Chairman</span>
 								<div class="faded">
 									<p>Professor Jacinta is a leading international environmental scholar, scientist, educator, health researcher, consultant and development activist. She is currently the Dean, Institute of Environmental Health at Ballsbridge University, Dominican Republic and also a visiting Professor of Biodiversity at Department of Environmental Sciences, Laikpia University, Nyahururu-Kenya. She received Msc and PhD Magna Cum Laude from Universidad Central de Nicaragua (UCN) and did post-graduate studies at Akershus University, Lillestrom-Norway.</p>
-									<p>Since the 1990’s she has held teaching, research and consulting experiences across Africa, America, Europe and Asia. Professor Jacinta is the President of Africa Association for teaching and learning; founding Co-Executive Director, Center for Environment and Community Development, and also serves on the Board/Governing Council of Mediterranean Center for Social and Educational Research, Rome Italy</p>
+									<p>Since the 1990’s she has held teaching, research and consulting experiences across Africa, America, Europe and Asia. Professor Jacinta is the President of Africa Association for teaching and learning; founding Co-Executive Director, Center for Environment and Community Development, and also serves on the Board/Governing Council of Mediterranean Center for Social and Educational Research, Rome Italy.</p>
 	              </div>
 							</div>
 						</div>
