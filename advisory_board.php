@@ -53,6 +53,10 @@
 							<div class="text pt-2 text-center">
 								<h3>Prof. (Mrs) Regina Uwaoma Obi, B.Sc, MSc, Ph.D, FIPMD, ABMIPMD, NIH,A, NDMAA, LAP, AICA, BEPCWOAES, MAERD</h3>
 								<span class="position mb-2">Member</span>
+								<div class="faded">
+									<p>professor (Mrs) Regina Uwaoma Obi is one woman could better described an Academic HeavyWeight. She is a professor of Industrial Sociology and Labour Relations in the Department of Sociology and Anthropology, University of Benin.</p>
+									<P>She has won several Academic, Professional and international Awards</P>
+	              </div>
 							</div>
 						</div>
 					</div>
@@ -64,6 +68,10 @@
 							<div class="text pt-2 text-center">
 								<h3>Chief Bar. Dr. (Mrs.) Caroline Mbafan Ekpendu, JP. LLB (Hons), BL, LLM, Ph.D, FIPMD.</h3>
 								<span class="position mb-2">Member</span>
+								<div class="faded">
+									<p>She obtained her Diploma in Law in 1992 at Benue State Polytechnic, Ugbokola of Benin where she graduated with Honors with a Bachelor of Law Degree (LLB) in 1997. She proceeded to Law School in 1998 and was called to the Bar on the 28th of September, 1999. She joined the service of the Ministry of Justice, Markurdi, Benue State as a State Council on 1<sup>st</sup> February, 2002. She Obtained her Master of Law (LLM) from the Benue State University in 2005</p>
+									<P>She joined the service of Benue State University as a lecturer, and awardee with thw Degree of Philosophy (Ph.D) in Law at Benue State University on 18th September, 2016. She is actively involved in private practice and practices as a the principal partner in the form of Mbutan Ekpendu & Co.</P>
+	              </div>
 							</div>
 						</div>
 					</div>
