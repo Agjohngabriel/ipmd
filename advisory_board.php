@@ -24,7 +24,7 @@
 								<h3>Dr. Sunday C. Nwite (BSS; MBA; M.Sc; Ph.D; ACII; ACIB; IRDI, MIMPD; FIPMD)</h3>
 								<span class="position mb-2">CHAIRMAN</span>
 								<div class="faded">
-									<p>Nwite Sunday Christian graduated in 1991 with B.Sc Honors, (Second class upper division). Because of his excellent </p>
+									<p>Nwite Sunday Christian graduated in 1991 with B.Sc Honors, (Second class upper division). Because of his excellent result, he was already offered employment as an assistant lecturer at the </p>
 									<P>He is a well read scholar with experience. As a Teacher, Educationist and an Financial Administrator he has held many positions in different higher institutions of learning in Nigeria.</P>
 	              </div>
 							</div>
