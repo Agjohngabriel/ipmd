@@ -21,10 +21,10 @@
 								<div class="img align-self-stretch" style="background-image: url(assets/img/testimonial-8.jpg);background-repeat:no-repeat;"></div>
 							</div>
 							<div class="text pt-2 text-center">
-								<h3>Dr. Sunday C. Nwite (BSS; MBA; M.Sc; Ph.D; ACII; IRDI, MIMPD; FIPMD)</h3>
+								<h3>Dr. Sunday C. Nwite (BSS; MBA; M.Sc; Ph.D; ACII; ACIB; IRDI, MIMPD; FIPMD)</h3>
 								<span class="position mb-2">CHAIRMAN</span>
 								<div class="faded">
-									<p>Prof. Sunday Nwite is a professor in the Department of Banking and Finance Ebonyi State University - Abakaliki. His contribution iin Financial Administration has set him apart from many of his mates</p>
+									<p>Nwite Sunday Christian graduated in 1991 with B.Sc Honors, (Second class upper division). Because of his excellent </p>
 									<P>He is a well read scholar with experience. As a Teacher, Educationist and an Financial Administrator he has held many positions in different higher institutions of learning in Nigeria.</P>
 	              </div>
 							</div>
