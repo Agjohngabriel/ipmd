@@ -40,7 +40,7 @@
 								<span class="position mb-2">Members</span>
 								<div class="faded">
 									<p>Prof. C. C. Opara is a professor of French Education in the Department of Arts and Social Sciences Education, Faculty of Education, University of Lagos. She has over Thirty (30) years of University teaching experience, having taught at Ahmadu Bello University, Zaria (Instutite of Education) and University of Lagos, (Institute of Education and Faculty of Education, Lagos.)</p>
-									<P>She is a Consultant for Trans-Global Educationals, a Consulting Firm that organizes professional workshops and seminars for teachers and adminstrators of school Nigeria. She is a motivator to the core. She motivates and follows-up until the ultimate is achieved</P>
+									<P>She is a Consultant for Trans-Global Educationals, a Consulting Firm that organizes professional workshops and seminars for teachers and adminstrators of schools in Nigeria. She is a motivator to the core. She motivates and follows-up until the ultimate is achieved</P>
 	              </div>
 							</div>
 						</div>
@@ -54,8 +54,8 @@
 								<h3>Prof. (Mrs) Regina Uwaoma Obi, B.Sc, MSc, Ph.D, FIPMD, ABMIPMD, NIH,A, NDMAA, LAP, AICA, BEPCWOAES, MAERD</h3>
 								<span class="position mb-2">Member</span>
 								<div class="faded">
-									<p>professor (Mrs) Regina Uwaoma Obi is one woman could better described an Academic HeavyWeight. She is a professor of Industrial Sociology and Labour Relations in the Department of Sociology and Anthropology, University of Benin.</p>
-									<P>She has won several Academic, Professional and international Awards</P>
+									<p>professor (Mrs) Regina Uwaoma Obi is one woman who could better be described as an Academic HeavyWeight. She is a professor of Industrial Sociology and Labour Relations in the Department of Sociology and Anthropology, University of Benin.</p>
+									<P>She has won several Academic, Professional and international Awards.</P>
 	              </div>
 							</div>
 						</div>
@@ -70,7 +70,7 @@
 								<span class="position mb-2">Member</span>
 								<div class="faded">
 									<p>She obtained her Diploma in Law in 1992 at Benue State Polytechnic, Ugbokola of Benin where she graduated with Honors with a Bachelor of Law Degree (LLB) in 1997. She proceeded to Law School in 1998 and was called to the Bar on the 28th of September, 1999. She joined the service of the Ministry of Justice, Markurdi, Benue State as a State Council on 1<sup>st</sup> February, 2002. She Obtained her Master of Law (LLM) from the Benue State University in 2005</p>
-									<P>She joined the service of Benue State University as a lecturer, and awardee with thw Degree of Philosophy (Ph.D) in Law at Benue State University on 18th September, 2016. She is actively involved in private practice and practices as a the principal partner in the form of Mbutan Ekpendu & Co.</P>
+									<P>She joined the service of Benue State University as a lecturer, and awarded with the Degree of Philosophy (Ph.D) in Law at Benue State University on 18th September, 2016. She is actively involved in private practice and practices as a the principal partner in the firm of Mbufan Ekpendu & Co.</P>
 	              </div>
 							</div>
 						</div>

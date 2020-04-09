@@ -84,7 +84,7 @@
 								<h3>Dr. Uko Ofe (B.Sc; M.Sc; DGD; PGDE; Ph.D; FIPMD)</h3>
 								<span class="position mb-2">Member</span>
 								<div class="faded">
-									<p>Dr. Ofe is an educationist with a  wealth of experience in teaching in secondary schools and Tertiary institution.</p>
+									<p>Dr. Ofe is an educationist with a  wealth of experience in teaching in secondary schools and Tertiary institutions.</p>
 									<p>He has published many books on mathematics, electronic properties and structures. He is a member of Nigeria Institute of Physics</p>
 	              </div>
 							</div>
