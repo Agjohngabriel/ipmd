@@ -34,6 +34,21 @@
 					<div class="col-lg-6 ftco-animate">
 						<div class="staff">
 							<div class="img-wrap d-flex align-items-stretch">
+								<div class="img align-self-stretch" style="background-image: url(assets/img/testimonial-4.jpg); background-repeat:no-repeat;"></div>
+							</div>
+							<div class="text pt-3 text-center">
+								<h3>Engr. Prof. Sabit A. Olagoke <span>Ph.D; FIPMD; JP</span> </h3>
+								<span class="position mb-2">Vice Chairman</span>
+								<div class="faded">
+									<p>Engr. Professor Sabit A. Olagoke is a Chief Lecturer/Research Professor, An Economist and Business Analyst. He is a former head of Department of Mechanical Engoneering, Federal Polytechnic, Ilaro.</p>
+									<p>He is also a one-time Dean of the School of Engineering of the same institution. He is a COREN Engineering Regulation Monitoring Inspector, Ogun-Lagos Zones.</p>
+	             				 </div>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-6 ftco-animate">
+						<div class="staff">
+							<div class="img-wrap d-flex align-items-stretch">
 								<div class="img align-self-stretch" style="background-image: url(assets/img/testimonial-1.jpg);background-repeat:no-repeat;"></div>
 							</div>
 							<div class="text pt-2 text-center">
@@ -70,7 +85,7 @@
 								<h3>Mr. Ndubuisi Ogwo <span>(B.Sc(Hons.); PGD; MIPMD;)</span></h3>
 								<span class="position mb-2">Secretary</span>
 								<div class="faded">
-									<p>Mr. Ndubuisi Ogwo is a banker of no mean repute. He is a financial consultant and has played keys role in the growth of many financial institutions in the country.</p>
+									<p>Mr. Ndubuisi Ogwo is a banker of no mean repute. He is a financial consultant and has played key role in the growth of many financial institutions in the country.</p>
 	              </div>
 							</div>
 						</div>
@@ -101,21 +116,6 @@
 								<div class="faded">
 									<p>He has wealth of experience in community leadership and Business Management.</p>
 	              </div>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-6 ftco-animate">
-						<div class="staff">
-							<div class="img-wrap d-flex align-items-stretch">
-								<div class="img align-self-stretch" style="background-image: url(assets/img/testimonial-4.jpg); background-repeat:no-repeat;"></div>
-							</div>
-							<div class="text pt-3 text-center">
-								<h3>Engr. Prof. Sabit A. Olagote <span>Ph.D; FIPMD; JP</span> </h3>
-								<span class="position mb-2">Council Member</span>
-								<div class="faded">
-									<p>Engr. Professor Sabit A. Olagoke is a Chief Lecturer/Research Professor, An Economist and Business Analyst. He is a former head of Department of Mechanical Engoneering, Federal Polytechnic, Ilaro.</p>
-									<p>He is also a one-time Dean of the School of Engineering of the same institution. He is a COREN Engineering Regulation Monitoring Inspector, Ogun-Lagos Zones.</p>
-	             				 </div>
 							</div>
 						</div>
 					</div>

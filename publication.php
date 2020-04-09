@@ -39,7 +39,10 @@
               <li class="py-2"><i class="ion-android-checkmark-circle"></i> A contributor can send more than one article but a maximum of two articles for review at a time will be allowed.</li>
               <li class="py-2"><i class="ion-android-checkmark-circle"></i> Any paper submitted for review implies that the author has assured themselves that it is free of copyright infringement or traces of plagiarism, and has not been published elsewhere by someone else.</li>
               <li class="py-2"><i class="ion-android-checkmark-circle"></i> Contributors are advised to employ the Harvard Referencing Style.</li>
-              <li class="py-2"><i class="ion-android-checkmark-circle"></i> 	A contributor can send more than one article but a maximum of two articles for review at a time will be allowed.</li>
+              <li class="py-2"><i class="ion-android-checkmark-circle"></i> A non-refundable per review fee of Five Thousand Naira (#5,000) for IPMD members and Ten Thousand Naira (#10,000) for non-members per paper submitted should be paid into the Institute Of Policy Management Development Account Number 1014921141, UBA PLC.</li>
+              <li class="py-2"><i class="ion-android-checkmark-circle"></i> When call for papers is made, enough time frame for response will be provided, and contributors are advised to submit the papers within the the specified, as late papers will not be reviewed. </li>
+              <li class="py-2"><i class="ion-android-checkmark-circle"></i> All inquiries should be addressed to the Editor -in-Chief via the E-mail: ipmdhq@gmail.com or call 08166762554, 07030977395.</li>
+
 
 
             </ul>
@@ -50,8 +53,14 @@
 <section id="services">
       <div class="container">
         <div class="section-header">
-          <h2>Other Important Awards</h2>
-          <p>Besides the “ICON OF LEADERSHIP EXCELLENCE AWARD”, the Council and Management have equally approved other great awards that pay the deserved recognition and honour to distinguished and excellent performance in various fields of human engagements – education, research and development, industry and the professions, administration and governance, etc. Deserving individuals and corporate organizations are nominated and screened for the conferment of the prestigious Membership or Fellowship of the Institute or achievement-specific awards for excellence, for instance in the areas of quality products and services, innovativeness, employment generation, philanthropy, human capital development or important corporate social responsibility execution, etc.</p>
+          <h2>THE IPMD PRINTING AND PUBLISHING MART</h2>
+          <h3>The Intellectual Property Publishers (TIPP)</h3>
+          <p>As an intellectual and professional body almost all of its activities are expressed in writing, it has become imperative for the Institute to establish and manage a full-fledged printing and publishing outfit. The Intellectual Property Publishers (TIPP), an in-house printing and publishing facility is staffed and equipped with the state-of-the art paraphernalia such as computers, digital Kord and Direct Imaging machines for super colour prints and large format productions. The use of this in-house facility ensures that all of the Institute’s pull-outs bear the imprints of fine scholarship and professionalism. Besides in-house engagements, the TIPP executes quality jobs for government ministries, departments and agencies, the organized private sector, and individuals in the areas of:</p>
+          <ul>
+              <li class="py-2"><i class="ion-android-checkmark-circle"></i> Biographical writing, editing, printing, publishing and promotion/launch.</li>
+              <li class="py-2"><i class="ion-android-checkmark-circle"></i> Design, editing, printing and publishing for established and up-coming authors.</li>
+              <li class="py-2"><i class="ion-android-checkmark-circle"></i> Design and printing of magazines, almanacs/calendars, call cards, diaries, folders, posters, stickers, flyers, banners, and brochures, etc all at reasonable rates.</li>
+           </ul>
         </div>
       </div>
 </section>

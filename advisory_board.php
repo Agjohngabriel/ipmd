@@ -69,8 +69,8 @@
 								<h3>Chief Bar. Dr. (Mrs.) Caroline Mbafan Ekpendu, JP. LLB (Hons), BL, LLM, Ph.D, FIPMD.</h3>
 								<span class="position mb-2">Member</span>
 								<div class="faded">
-									<p>She obtained her Diploma in Law in 1992 at Benue State Polytechnic, Ugbokola of Benin where she graduated with Honors with a Bachelor of Law Degree (LLB) in 1997. She proceeded to Law School in 1998 and was called to the Bar on the 28th of September, 1999. She joined the service of the Ministry of Justice, Markurdi, Benue State as a State Council on 1<sup>st</sup> February, 2002. She Obtained her Master of Law (LLM) from the Benue State University in 2005</p>
-									<P>She joined the service of Benue State University as a lecturer, and awarded with the Degree of Philosophy (Ph.D) in Law at Benue State University on 18th September, 2016. She is actively involved in private practice and practices as a the principal partner in the firm of Mbufan Ekpendu & Co.</P>
+									<p>She obtained her Diploma in Law in 1992 at Benue State Polytechnic Ugbokola. She proceeded to university of Benin where she graduated with Honors with a Bachelor of Law Degree (LLB) in 1997. She proceeded to Law School in 1998 and was called to the Bar on the 28th of September, 1999. She joined the service of the Ministry of Justice, Makurdi, Benue State as a State Counsel on First February, 2002. She obtained her Master of Law (LLM) from the Benue State University in 2005.</p>
+									<P>She joined the service of Benue State University as a Lecturer, and was awarded with the Degree of Philosophy (Ph.D) in Law at Benue State University on 18th September, 2016. She is actively involved in private practice and practices as the Principal partner in the firm of Mbafan Ekpendu & Co.</P>
 	              </div>
 							</div>
 						</div>

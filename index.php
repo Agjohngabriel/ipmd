@@ -157,7 +157,7 @@
             <div class="box wow fadeInRight">
               <div class="icon"><i class="fa fa-picture-o"></i></div>
               <h4 class="title"><a href="">Education and training committee</a></h4>
-              <p class="description">For organizing local and international seminars, conference and training workshop, as well as to carry out research, conceptualization and articulation of Policy Management proposals, training programs and consultancy</p>
+              <p class="description">For organizing local and international seminars, conference and training workshops, as well as to carry out research, conceptualization and articulation of Policy Management proposals, training programs and consultancy</p>
             </div>
           </div>
 
@@ -388,8 +388,8 @@
             <div class="contact-address">
               <i class="ion-ios-location-outline"></i>
               <h3 class="tagline">Southern Secretariat & Library</h3>
-              <address>131 Aba Owerri Road 1st Floor, Umungasi Aba, Abia State</address>
-              <p><a href="tel:+2348166797645">+234 816 670 2554</a></p>
+              <address>31 Aba-Owerri Road, Okpanku House, 1st Floor, Umungasi, Aba, Abia State.</address>
+              <p><a href="tel:+2348166797645">+234 816 676 2554.</a></p>
               <p><a href="tel:+2348030977395">+234 805 332 0735</a></p>
 
             </div>
