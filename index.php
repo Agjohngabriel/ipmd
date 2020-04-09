@@ -377,7 +377,7 @@
             <div class="contact-address">
               <i class="ion-ios-location-outline"></i>
               <h3 class="tagline">Abuja</h3>
-              <address>15 Ndola Cresent, Wuse Zone 5</address>
+              <address>No. 24 Aminu Kano Cresent, Wuse 2, Abuja FCT</address>
               <p><a href="tel:+2348038023557">+234 803 802 3557</a></p>
               <p><a href="tel:+2348066797645">+234 806 679 7645</a></p>
 
