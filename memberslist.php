@@ -2512,7 +2512,7 @@
 </tr>
 <tr>
 <td>624</td>
-<td width="1026">Dr. Babatunde Adeniyi Adeyemi: Reader, Institute of Education, Faculty of Education, Oyo State.</td>
+<td width="1026">Prof. Babatunde Adeniyi Adeyemi: Reader, Institute of Education, Faculty of Education, Oyo State.</td>
 </tr>
 <tr>
 <td>625</td>

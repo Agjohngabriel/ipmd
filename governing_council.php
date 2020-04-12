@@ -40,7 +40,7 @@
 								<h3>Engr. Prof. Sabit A. Olagoke <span>Ph.D; FIPMD; JP</span> </h3>
 								<span class="position mb-2">Vice Chairman</span>
 								<div class="faded">
-									<p>Engr. Professor Sabit A. Olagoke is a Chief Lecturer/Research Professor, An Economist and Business Analyst. He is a former head of Department of Mechanical Engoneering, Federal Polytechnic, Ilaro.</p>
+									<p>Engr. Professor Sabit A. Olagoke is a Chief Lecturer/Research Professor, An Economist and Business Analyst. He is a former Head of Department of Mechanical Engineering, Federal Polytechnic, Ilaro.</p>
 									<p>He is also a one-time Dean of the School of Engineering of the same institution. He is a COREN Engineering Regulation Monitoring Inspector, Ogun-Lagos Zones.</p>
 	             				 </div>
 							</div>
