@@ -85,7 +85,7 @@
 								<h3>Mr. Ndubuisi Ogwo <span>(B.Sc(Hons.); PGD; MIPMD;)</span></h3>
 								<span class="position mb-2">Secretary</span>
 								<div class="faded">
-									<p>Mr. Ndubuisi Ogwo is a banker of no mean repute. He is a financial consultant and has played key role in the growth of many financial institutions in the country.</p>
+									<p>Mr. Ndubuisi Ogwo is a banker of no mean repute. He is a financial consultant and has played key roles in the growth of many financial institutions in the country.</p>
 	              </div>
 							</div>
 						</div>
